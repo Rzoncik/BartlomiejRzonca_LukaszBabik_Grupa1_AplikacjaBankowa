@@ -1,0 +1,48 @@
+@page
+@using BankApp.Models
+@model BankApp.Pages.AccountsModel
+@{
+    ViewData["Title"] = "Moje rachunki";
+    Layout = "Shared/_DashboardLayout";
+}
+
+<h1>Your Bank Accounts</h1>
+
+<table class="striped highlight">
+    <thead>
+    <tr>
+        <th>IBAN</th>
+        <th>Balance</th>
+        <th>Selected</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var acc in Model.Accounts)
+    {
+        <tr>
+            <td>@acc.Iban</td>
+            <td>@acc.Balance.ToString("F2")</td>
+            <td>
+                @if (acc.Iban == Model.SelectedIban)
+                {
+                    <span class="badge green">Current</span>
+                }
+            </td>
+            <td>
+                @if (acc.Iban != Model.SelectedIban)
+                {
+                    <form method="post" asp-page-handler="Switch">
+                        <input type="hidden" name="iban" value="@acc.Iban" />
+                        <button class="btn-small waves-effect waves-light" type="submit">Set active</button>
+                    </form>
+                }
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<form method="post" asp-page-handler="Create">
+    <button class="btn waves-effect waves-light" type="submit">Create new account</button>
+</form>

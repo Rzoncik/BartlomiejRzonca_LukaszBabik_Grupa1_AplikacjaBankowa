@@ -1,0 +1,50 @@
+﻿@{
+    Layout = null;
+    var title = ViewData["Title"] as string ?? "RizzBank";
+}
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>@title</title>
+        <link rel="stylesheet" href="~/css/site.css" />
+        @RenderSection("Styles", required: false)
+    </head>
+    <body>
+        <nav>
+            <img src="images/logo.png" alt="Logo RizzBank" class="logo" />
+            <ul class="nav-list">
+                <a asp-page="/Index" class="nav-link">
+                    <section class="nav-button" id="navButton1">
+                        <span>Strona Główna</span>
+                    </section>
+                </a>
+
+                <a asp-page="/Login">
+                    <section class="nav-button" id="navButton2">
+                        <span>Logowanie</span>
+                    </section>
+                </a>
+
+                <a asp-page="/Register">
+                    <section class="nav-button" id="navButton3">
+                        <span>Rejestracja</span>
+                    </section>
+                </a>
+            </ul>
+        </nav>
+
+        <main class="main">
+            @RenderBody()
+        </main>
+
+        <partial name="_ValidationToast" />
+    
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+        <script src="~/js/layout-scripts.js"></script>
+
+        @RenderSection("Scripts", required: false)
+    </body>
+</html>

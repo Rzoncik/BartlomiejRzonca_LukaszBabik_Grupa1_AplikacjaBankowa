@@ -1,0 +1,1127 @@
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.csproj.AssemblyReference.cache
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.AssemblyInfoInputs.cache
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.AssemblyInfo.cs
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.csproj.CoreCompileInputs.cache
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.RazorAssemblyInfo.cache
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.RazorAssemblyInfo.cs
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/appsettings.json
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.staticwebassets.runtime.json
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.staticwebassets.endpoints.json
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.exe
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.deps.json
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.runtimeconfig.json
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.pdb
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Humanizer.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/scopedcss/bundle/SimpleLoginApp.styles.css
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/scopedcss/projectbundle/SimpleLoginApp.bundle.scp.css
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets/msbuild.SimpleLoginApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets/msbuild.SimpleLoginApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets/msbuild.build.SimpleLoginApp.props
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SimpleLoginApp.props
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SimpleLoginApp.props
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLo.32FA6CA2.Up2Date
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/refint/SimpleLoginApp.dll
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.pdb
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.genruntimeconfig.cache
+C:/Users/Bartłomiej Rzońca/source/repos/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/ref/SimpleLoginApp.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/appsettings.json
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.staticwebassets.runtime.json
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.exe
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.deps.json
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.runtimeconfig.json
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.pdb
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Humanizer.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.csproj.AssemblyReference.cache
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.AssemblyInfoInputs.cache
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.AssemblyInfo.cs
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.csproj.CoreCompileInputs.cache
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.RazorAssemblyInfo.cache
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.RazorAssemblyInfo.cs
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets/msbuild.SimpleLoginApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets/msbuild.build.SimpleLoginApp.props
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SimpleLoginApp.props
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SimpleLoginApp.props
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/scopedcss/bundle/SimpleLoginApp.styles.css
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/scopedcss/projectbundle/SimpleLoginApp.bundle.scp.css
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLo.32FA6CA2.Up2Date
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/refint/SimpleLoginApp.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.pdb
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.genruntimeconfig.cache
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/ref/SimpleLoginApp.dll
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.staticwebassets.endpoints.json
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/Bartłomiej/Desktop/C#/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets/msbuild.SimpleLoginApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/appsettings.Development.json
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/appsettings.json
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.staticwebassets.runtime.json
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.staticwebassets.endpoints.json
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.exe
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.deps.json
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.runtimeconfig.json
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SimpleLoginApp.pdb
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Humanizer.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/Mono.TextTemplating.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.CodeDom.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Composition.Convention.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Composition.Hosting.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Composition.Runtime.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.IO.Pipelines.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/System.Text.Json.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.csproj.AssemblyReference.cache
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.GeneratedMSBuildEditorConfig.editorconfig
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.AssemblyInfoInputs.cache
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.AssemblyInfo.cs
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.csproj.CoreCompileInputs.cache
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.MvcApplicationPartsAssemblyInfo.cache
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.RazorAssemblyInfo.cache
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.RazorAssemblyInfo.cs
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/scopedcss/bundle/SimpleLoginApp.styles.css
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/scopedcss/projectbundle/SimpleLoginApp.bundle.scp.css
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets.build.json
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets.development.json
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets/msbuild.SimpleLoginApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets/msbuild.SimpleLoginApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets/msbuild.build.SimpleLoginApp.props
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SimpleLoginApp.props
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SimpleLoginApp.props
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/staticwebassets.pack.json
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLo.32FA6CA2.Up2Date
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/refint/SimpleLoginApp.dll
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.pdb
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/SimpleLoginApp.genruntimeconfig.cache
+F:/Studia/Programowanie obiektowe/SimpleLoginApp/SimpleLoginApp/obj/Debug/net8.0/ref/SimpleLoginApp.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/appsettings.Development.json
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/appsettings.json
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/BankApp.staticwebassets.runtime.json
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/BankApp.staticwebassets.endpoints.json
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/BankApp.exe
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/BankApp.deps.json
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/BankApp.runtimeconfig.json
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/BankApp.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/BankApp.pdb
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Humanizer.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Mono.TextTemplating.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.CodeDom.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.Composition.Convention.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.Composition.Hosting.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.Composition.Runtime.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.IO.Pipelines.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.Text.Json.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.csproj.AssemblyReference.cache
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.GeneratedMSBuildEditorConfig.editorconfig
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.AssemblyInfoInputs.cache
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.AssemblyInfo.cs
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.csproj.CoreCompileInputs.cache
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.MvcApplicationPartsAssemblyInfo.cache
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.RazorAssemblyInfo.cache
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.RazorAssemblyInfo.cs
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/scopedcss/bundle/BankApp.styles.css
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/scopedcss/projectbundle/BankApp.bundle.scp.css
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets.build.json
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets.development.json
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.BankApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.BankApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.build.BankApp.props
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BankApp.props
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BankApp.props
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets.pack.json
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.csproj.Up2Date
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/refint/BankApp.dll
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.pdb
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.genruntimeconfig.cache
+F:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/ref/BankApp.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/appsettings.Development.json
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/appsettings.json
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/BankApp.staticwebassets.endpoints.json
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/BankApp.staticwebassets.runtime.json
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/BankApp.exe
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/BankApp.deps.json
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/BankApp.runtimeconfig.json
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/BankApp.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/BankApp.pdb
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Humanizer.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/Mono.TextTemplating.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.CodeDom.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.Composition.Convention.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.Composition.Hosting.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.Composition.Runtime.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.IO.Pipelines.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/System.Text.Json.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.csproj.AssemblyReference.cache
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.GeneratedMSBuildEditorConfig.editorconfig
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.AssemblyInfoInputs.cache
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.AssemblyInfo.cs
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.csproj.CoreCompileInputs.cache
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.MvcApplicationPartsAssemblyInfo.cache
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.RazorAssemblyInfo.cache
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.RazorAssemblyInfo.cs
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/scopedcss/bundle/BankApp.styles.css
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/scopedcss/projectbundle/BankApp.bundle.scp.css
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets.build.json
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets.development.json
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.BankApp.Microsoft.AspNetCore.StaticWebAssets.props
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.BankApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.build.BankApp.props
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BankApp.props
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BankApp.props
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/staticwebassets.pack.json
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.csproj.Up2Date
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/refint/BankApp.dll
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.pdb
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/BankApp.genruntimeconfig.cache
+P:/Studia/Programowanie obiektowe/BankApp/BankApp/obj/Debug/net8.0/ref/BankApp.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/appsettings.json
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/BankApp.staticwebassets.endpoints.json
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/BankApp.staticwebassets.runtime.json
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/BankApp.exe
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/BankApp.deps.json
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/BankApp.runtimeconfig.json
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/BankApp.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/BankApp.pdb
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Humanizer.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/BankApp.csproj.AssemblyReference.cache
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/BankApp.AssemblyInfoInputs.cache
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/BankApp.AssemblyInfo.cs
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/BankApp.csproj.CoreCompileInputs.cache
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/BankApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/BankApp.RazorAssemblyInfo.cache
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/BankApp.RazorAssemblyInfo.cs
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/scopedcss/bundle/BankApp.styles.css
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/scopedcss/projectbundle/BankApp.bundle.scp.css
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.BankApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.BankApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.build.BankApp.props
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BankApp.props
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BankApp.props
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/BankApp.csproj.Up2Date
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/BankApp.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/refint/BankApp.dll
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/BankApp.pdb
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/BankApp.genruntimeconfig.cache
+C:/Users/Bartłomiej/Desktop/BankApp/BankApp/obj/Debug/net8.0/ref/BankApp.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/appsettings.Development.json
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/appsettings.json
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/BankApp.staticwebassets.runtime.json
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/BankApp
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/BankApp.deps.json
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/BankApp.runtimeconfig.json
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/BankApp.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/BankApp.pdb
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Humanizer.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/System.CodeDom.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/System.Text.Json.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/BankApp.csproj.AssemblyReference.cache
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/BankApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/BankApp.AssemblyInfoInputs.cache
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/BankApp.AssemblyInfo.cs
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/BankApp.csproj.CoreCompileInputs.cache
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/BankApp.MvcApplicationPartsAssemblyInfo.cache
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/BankApp.RazorAssemblyInfo.cache
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/BankApp.RazorAssemblyInfo.cs
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/staticwebassets.build.json
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/staticwebassets.development.json
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.BankApp.Microsoft.AspNetCore.StaticWebAssets.props
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.build.BankApp.props
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BankApp.props
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BankApp.props
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/staticwebassets.pack.json
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/scopedcss/bundle/BankApp.styles.css
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/scopedcss/projectbundle/BankApp.bundle.scp.css
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/BankApp.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/refint/BankApp.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/BankApp.pdb
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/BankApp.genruntimeconfig.cache
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/ref/BankApp.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/BankApp.csproj.CopyComplete
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Debug/net8.0/scopedcss/Pages/Shared/_DashboardLayout.cshtml.rz.scp.css
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/HtmlAgilityPack.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/bin/Debug/net8.0/package-lock.json

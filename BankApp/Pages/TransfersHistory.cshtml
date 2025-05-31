@@ -1,0 +1,140 @@
+@page
+@model TransfersHistoryModel
+@{
+    ViewData["Title"] = "Historia operacji";
+    Layout = "Shared/_DashboardLayout";
+}
+
+<h2 class="center-align">Historia przelewów</h2>
+
+<!-- Przycisk pokazujący / ukrywający panel filtrów -->
+<div class="right-align">
+    <a id="toggleFilters" class="btn-flat waves-effect">
+        <i class="material-icons left">Filtry</i>
+    </a>
+</div>
+
+<!-- Panel filtrów (domyślnie ukryty) -->
+<div id="filterPanel" class="card-panel z-depth-1" style="display:none;">
+    <form id="filterForm" class="row" autocomplete="off">
+        <div class="input-field col s12 m2">
+            <input type="text" id="fromDate" class="datepicker">
+            <label for="fromDate">Od daty</label>
+        </div>
+        <div class="input-field col s12 m2">
+            <input type="text" id="toDate" class="datepicker">
+            <label for="toDate">Do daty</label>
+        </div>
+        <div class="input-field col s12 m2">
+            <input id="minAmount" type="text" pattern="[0-9]+([\.,][0-9]{1,2})?">
+            <label for="minAmount">Kwota od</label>
+        </div>
+        <div class="input-field col s12 m2">
+            <input id="maxAmount" type="text" pattern="[0-9]+([\.,][0-9]{1,2})?">
+            <label for="maxAmount">Kwota do</label>
+        </div>
+        <div class="input-field col s12 m2">
+            <select id="flowType">
+                <option value="" selected>Wszystkie</option>
+                <option value="in">Wpływy</option>
+                <option value="out">Wydatki</option>
+            </select>
+            <label>Typ operacji</label>
+        </div>
+        <div class="input-field col s12 m1">
+            <input id="searchText" type="text">
+            <label for="searchText">Szukaj</label>
+        </div>
+        <div class="input-field col s12 m1 center-align">
+            <button id="applyFilter" class="btn waves-effect waves-light" type="submit">
+                Filtruj
+            </button>
+        </div>
+    </form>
+</div>
+
+<table class="highlight responsive-table centered">
+    <thead>
+        <tr>
+            <th>Data<br><small>(dd-MM-yyyy)</small></th>
+            <th>Kwota</th>
+            <th>Tytuł</th>
+            <th>Odbiorca</th>
+            <th>Nadawca</th>
+            <th>IBAN nadawcy</th>
+            <th>IBAN odbiorcy</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var t in Model.Transfers)
+    {
+        bool isOutgoing = t.SenderUserId == Model.CurrentUserId;
+        string rowColor = isOutgoing ? "red" : "green";
+        decimal signedAmount = isOutgoing ? -t.Amount : t.Amount;
+        string typeStr = isOutgoing ? "out" : "in";
+        <tr class="@rowColor"
+            data-date="@t.ExecutedAtUtc.ToLocalTime().ToString("yyyy-MM-dd")"
+            data-type="@typeStr"
+            data-title="@t.Title!.ToLower()"
+            data-amount="@(Math.Abs(signedAmount).ToString(System.Globalization.CultureInfo.InvariantCulture))">
+            <td>@t.ExecutedAtUtc.ToLocalTime().ToString("dd-MM-yyyy")</td>
+            <td class="right-align">
+                @(signedAmount.ToString("C", System.Globalization.CultureInfo.GetCultureInfo("pl-PL")))
+            </td>
+            <td>@t.Title</td>
+            <td>@t.ReceiversName</td>
+            <td>@($"{t.Sender?.FirstName} {t.Sender?.LastName}")</td>
+            <td>@t.SenderIban</td>
+            <td>@t.ReceiverIban</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Inicjalizacja Materialize komponentów
+            M.FormSelect.init(document.querySelectorAll('select'));
+            M.Datepicker.init(document.querySelectorAll('.datepicker'), {
+                format: 'yyyy-mm-dd',
+                autoClose: true,
+                firstDay: 1
+            });
+
+            // Toggle widoczności panelu filtrów
+            document.getElementById('toggleFilters').addEventListener('click', function () {
+                const panel = document.getElementById('filterPanel');
+                panel.style.display = (panel.style.display === 'none' || panel.style.display === '') ? 'block' : 'none';
+            });
+        });
+
+        // Obsługa filtrowania
+        document.getElementById('filterForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+            const from = document.getElementById('fromDate').value;
+            const to = document.getElementById('toDate').value;
+            const flow = document.getElementById('flowType').value;
+            const query = document.getElementById('searchText').value.toLowerCase();
+
+            const minAmountValRaw = document.getElementById('minAmount').value.trim().replace(',', '.');
+            const maxAmountValRaw = document.getElementById('maxAmount').value.trim().replace(',', '.');
+            const minAmount = minAmountValRaw ? parseFloat(minAmountValRaw) : null;
+            const maxAmount = maxAmountValRaw ? parseFloat(maxAmountValRaw) : null;
+
+            document.querySelectorAll('tbody tr').forEach(row => {
+                const date = row.getAttribute('data-date');
+                const type = row.getAttribute('data-type');
+                const title = row.getAttribute('data-title');
+                const amount = parseFloat(row.getAttribute('data-amount'));
+
+                const inRangeDate = (!from || date >= from) && (!to || date <= to);
+                const matchesType = !flow || type === flow;
+                const matchesQuery = !query || title.includes(query);
+                const inAmountRange = (!minAmount || amount >= minAmount) && (!maxAmount || amount <= maxAmount);
+
+                row.style.display = (inRangeDate && matchesType && matchesQuery && inAmountRange) ? '' : 'none';
+            });
+        });
+    </script>
+}

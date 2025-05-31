@@ -1,0 +1,65 @@
+﻿@{
+    Layout = null;
+    var title = ViewData["Title"] as string ?? "RizzBank";
+}
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>@title</title>
+        <link rel="stylesheet" href="~/css/site.css" />
+        
+        @RenderSection("Styles", required: false)
+    </head>
+    <body>
+    <section class="sidebar-expanded">
+        <section>
+            <span class="user-name">@Context.Session.GetString("FirstName") @Context.Session.GetString("LastName")</span>
+            <br/>
+            <span class="balance">Środki: @Context.Session.GetString("Balance")zł</span>
+        </section>
+
+        <a asp-page="/Dashboard">
+            <section class="sidebar-button" id="sideBarButton1"><span>Panel użytkownika</span></section>
+        </a>
+
+        <a asp-page="/SendTransfer">
+            <section class="sidebar-button" id="sideBarButton2"><span>Przelew bankowy</span></section>
+        </a>
+
+        <a asp-page="/Accounts">
+            <section class="sidebar-button" id="sideBarButton3"><span>Konta bankowe</span></section>
+        </a>
+
+        <a asp-page="/ChangeUserData">
+            <section class="sidebar-button" id="sideBarButton4"><span>Edytuj konto</span></section>
+        </a>
+
+        <a asp-page="/TransfersHistory">
+            <section class="sidebar-button" id="sideBarButton5"><span>Historia operacji</span></section>
+        </a>
+
+        <a asp-page="/Currencies">
+            <section class="sidebar-button" id="sideBarButton6"><span>Waluty</span></section>
+        </a>
+
+        <a asp-page="/CreditCardInfo">
+            <section class="sidebar-button" id="sideBarButton7"><span>Karta kredytowa</span></section>
+        </a>
+        
+        <section class="separator"></section>
+
+        <a asp-page="/Logout"><section class="sidebar-button" id="sideBarButton8"><span>Wyloguj się</span></section></a>
+    </section>
+
+        <main class="main-with-sidenav">
+                @RenderBody()
+        </main>
+
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="js/dashboard-layout-scripts.js"></script>
+
+        @RenderSection("Scripts", required: false)
+    </body>
+</html>

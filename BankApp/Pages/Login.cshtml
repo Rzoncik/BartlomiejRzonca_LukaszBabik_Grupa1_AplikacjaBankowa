@@ -1,0 +1,27 @@
+﻿@page
+@model BankApp.Pages.LoginModel
+@{
+    ViewData["Title"] = "Logowanie - RizzBank";
+    Layout = "Shared/_Layout";
+}
+
+<h1 class="title">Zaloguj się</h1>
+
+<section class="form-login">
+    <form method="post">
+        <label>Login</label>
+        <br/>
+        <input type="text" name="Login" />
+        <br/>
+        <label>Hasło</label>
+        <br/>
+        <input type="password" name="Password" />
+        <br/>
+        <input type="submit" value="Zaloguj się" />
+    </form>
+</section>
+
+@if (!string.IsNullOrEmpty(Model.GeneratedLogin))
+{
+    <section>@Model.GeneratedLogin</section>
+}
