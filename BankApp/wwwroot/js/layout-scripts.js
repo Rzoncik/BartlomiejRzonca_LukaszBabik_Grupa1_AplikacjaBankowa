@@ -8,34 +8,32 @@ document.addEventListener('DOMContentLoaded', () => {
     ];
 
     services.forEach(({button}) => {
-        const cardEl = document.getElementById(button);
-
-        // if (!cardEl) return;
+        const Button = document.getElementById(button);
 
         /* ================================ HOVER ================================ */
-        cardEl.addEventListener('mouseenter', () => {
-            cardEl.classList.add('nav-button-enter');
+        Button.addEventListener('mouseenter', () => {
+            Button.classList.add('nav-button-enter');
         });
 
-        cardEl.addEventListener('mouseleave', () => {
-            cardEl.classList.remove('nav-button-enter', 'nav-button-down');
+        Button.addEventListener('mouseleave', () => {
+            Button.classList.remove('nav-button-enter', 'nav-button-down');
         });
         
         /* ================================ CLICK ================================ */
         const pressStart = () => {
-            cardEl.classList.remove('nav-button-enter');
-            cardEl.classList.add('nav-button-down');
+            Button.classList.remove('nav-button-enter');
+            Button.classList.add('nav-button-down');
         };
 
         const pressEnd = () => {
-            cardEl.classList.remove('nav-button-down');      // release press
+            Button.classList.remove('nav-button-down');      // release press
         };
 
-        cardEl.addEventListener('mousedown', pressStart);
-        cardEl.addEventListener('mouseup', pressEnd);
+        Button.addEventListener('mousedown', pressStart);
+        Button.addEventListener('mouseup', pressEnd);
 
         /* Also support touch */
-        cardEl.addEventListener('touchstart', pressStart, {passive: true});
-        cardEl.addEventListener('touchend', pressEnd);
+        Button.addEventListener('touchstart', pressStart, {passive: true});
+        Button.addEventListener('touchend', pressEnd);
     });
 });

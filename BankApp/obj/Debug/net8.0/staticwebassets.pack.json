@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets/js/layout-scripts.js"
     },
     {
+      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/js/users-info-text-scaling.js",
+      "PackagePath": "staticwebassets/js/users-info-text-scaling.js"
+    },
+    {
       "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },

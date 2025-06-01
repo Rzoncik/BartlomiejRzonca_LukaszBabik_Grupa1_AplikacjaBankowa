@@ -12,14 +12,17 @@
         
         @RenderSection("Styles", required: false)
     </head>
-    <body>
-    <section class="sidebar-expanded">
-        <section>
-            <span class="user-name">@Context.Session.GetString("FirstName") @Context.Session.GetString("LastName")</span>
-            <br/>
-            <span class="balance">Środki: @Context.Session.GetString("Balance")zł</span>
-        </section>
+<body>
+<section class="sidebar-expanded">
+    <section class="sidebar-user-info">
+    <section>
+        <span class="user-name">@Context.Session.GetString("FirstName") @Context.Session.GetString("LastName")</span>
+        <br/>
+        <span class="balance">Środki: @Context.Session.GetString("Balance")zł</span>
+    </section>
+    </section>
 
+    <section class="sidebar-buttons">
         <a asp-page="/Dashboard">
             <section class="sidebar-button" id="sideBarButton1"><span>Panel użytkownika</span></section>
         </a>
@@ -47,19 +50,23 @@
         <a asp-page="/CreditCardInfo">
             <section class="sidebar-button" id="sideBarButton7"><span>Karta kredytowa</span></section>
         </a>
-        
+
         <section class="separator"></section>
 
         <a asp-page="/Logout"><section class="sidebar-button" id="sideBarButton8"><span>Wyloguj się</span></section></a>
     </section>
+</section>
 
-        <main class="main-with-sidenav">
-                @RenderBody()
-        </main>
+<main class="main-with-sidebar">
+    @RenderBody()
+</main>
 
-        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-        <script src="js/dashboard-layout-scripts.js"></script>
+<partial name="_ValidationToast" />
 
-        @RenderSection("Scripts", required: false)
-    </body>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="js/dashboard-layout-scripts.js"></script>
+<script src="js/users-info-text-scaling.js"></script>
+
+@RenderSection("Scripts", required: false)
+</body>
 </html>

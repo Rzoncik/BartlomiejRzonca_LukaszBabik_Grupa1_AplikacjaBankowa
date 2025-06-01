@@ -5,35 +5,31 @@
     Layout = "Shared/_DashboardLayout";
 }
 
-<h1 class="mb-4">Przelew wewnętrzny</h1>
+<h1 class="title">Przelew bankowy</h1>
 
-<form method="post">
+<form method="post" class="form dashboard-form">
     
-    <div class="mb-3">
-        <label asp-for="ReceiversName" class="form-label"></label>
-        <input asp-for="ReceiversName" class="form-control"/>
-        <span asp-validation-for="ReceiversName" class="text-danger"></span>
-    </div>
+    <section>
+        <label asp-for="ReceiversName">Odbiorca</label>
+        <input asp-for="ReceiversName"/>
+    </section>
     
-    <div class="mb-3">
-        <label asp-for="ReceiverIban" class="form-label"></label>
-        <input asp-for="ReceiverIban" class="form-control"/>
-        <span asp-validation-for="ReceiverIban" class="text-danger"></span>
-    </div>
+    <section>
+        <label asp-for="ReceiverIban">Rachunek odbiorcy</label>
+        <input asp-for="ReceiverIban" placeholder="PL##########################"/>
+    </section>
 
-    <div class="mb-3">
-        <label asp-for="Amount" class="form-label"></label>
-        <input asp-for="Amount" class="form-control" step="0.01"/>
-        <span asp-validation-for="Amount" class="text-danger"></span>
-    </div>
+    <section>
+        <label asp-for="Amount">Kwota</label>
+        <input asp-for="Amount" step="0.01"/>
+    </section>
 
-    <div class="mb-3">
-        <label asp-for="Title" class="form-label"></label>
-        <input asp-for="Title" class="form-control" placeholder="(opcjonalnie)"/>
-        <span asp-validation-for="Title" class="text-danger"></span>
-    </div>
+    <section>
+        <label asp-for="Title">Tytuł przelewu</label>
+        <input asp-for="Title" placeholder="(opcjonalnie)"/>
+    </section>
 
-    <button class="btn btn-primary" type="submit">Wyślij</button>
+    <input type="submit" value="Wyślij" />
     
 </form>
 

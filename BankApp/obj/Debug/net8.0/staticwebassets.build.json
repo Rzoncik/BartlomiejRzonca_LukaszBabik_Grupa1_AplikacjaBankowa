@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jygwus+3+rM6J64VkDmlOW5iMlzb1ibaV2h2kTKLYvQ=",
+  "Hash": "B7otkutMA6LPM0gemq28wADXXSzAq1J/jTb3coaP7Ug=",
   "Source": "BankApp",
   "BasePath": "_content/BankApp",
   "Mode": "Default",
@@ -224,6 +224,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/layout-scripts.js"
+    },
+    {
+      "Identity": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/js/users-info-text-scaling.js",
+      "SourceId": "BankApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/",
+      "BasePath": "_content/BankApp",
+      "RelativePath": "js/users-info-text-scaling.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/users-info-text-scaling.js"
     },
     {
       "Identity": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
