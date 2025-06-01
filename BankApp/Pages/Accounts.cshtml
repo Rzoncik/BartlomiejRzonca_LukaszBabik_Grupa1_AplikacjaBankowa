@@ -34,7 +34,7 @@
                 {
                     <form method="post" asp-page-handler="Switch">
                         <input type="hidden" name="iban" value="@acc.Iban" />
-                        <button class="btn-small waves-effect waves-light" type="submit">Set active</button>
+                        <input type="submit" value="Ustaw jako aktywny" />
                     </form>
                 }
             </td>
@@ -44,5 +44,5 @@
 </table>
 
 <form method="post" asp-page-handler="Create">
-    <button class="btn waves-effect waves-light" type="submit">Create new account</button>
+    <input type="submit" value="Stwórz nowe konto" />
 </form>

@@ -334,9 +334,9 @@ nav {
 }
 
 .separator {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255,255,255,0.25);
     margin: 1rem;
-    min-height: 0.2rem;
+    min-height: 6px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -345,7 +345,6 @@ nav {
     padding-left: 1rem;
     padding-right: 1rem;
     font-weight: bold;
-    border: 1px solid rgba(255, 255, 255, 0.2);
     transition: all 0.25s ease-in-out;
 }
 
@@ -366,4 +365,16 @@ nav {
 
 .dashboard-form {
     margin-top: -1rem !important;
+}
+
+
+/* ===================================== ACCOUNTS ===================================== */
+
+table {
+    overflow: auto;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+tr, th, td {
+    border: 1px solid rgba(255, 255, 255, 0.2);
 }
