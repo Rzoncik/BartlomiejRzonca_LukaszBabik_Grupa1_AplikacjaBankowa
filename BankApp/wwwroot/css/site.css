@@ -25,7 +25,8 @@ body {
     background-repeat: no-repeat;
     background-position: center center;
     height: 100%;
-    overflow: auto;
+    overflow-y: auto;
+    overflow-x: auto;
 }
 
 /* 2. Chromium / WebKit browsers */
@@ -56,9 +57,10 @@ body {
     font-family: Tiempos, sans-serif;
     font-size: 4rem;
     filter: drop-shadow(0 0 0.6rem rgba(0, 0, 0, 0.3));
+    margin-left: 2vw;
 }
 
-span, a, h1, h2, label {
+span, a, h1, h2, label, table {
     color: #F2F2F2;
     text-decoration: none;
 }
@@ -104,7 +106,7 @@ input[type=submit]:hover, input:hover {
     background-color: rgba(32, 32, 32, 0.3);
 }
 
-form {
+.form {
     width: 40rem;
     margin: 4rem auto 0;
     padding: 2rem;
@@ -112,6 +114,7 @@ form {
     box-shadow: 0 0 0.5rem rgba(0,0,0,0.4);
     background-color: rgba(16, 16, 16, 0.1);
     border: 1px solid rgba(255, 255, 255, 0.2);
+    
 }
 
 .main {
@@ -226,7 +229,7 @@ nav {
 }
 
 
-/* ===================================== Index ===================================== */
+/* ===================================== INDEX ===================================== */
 
 .index {
     justify-content: space-between;
@@ -247,7 +250,7 @@ nav {
 }
 
 
-/* ===================================== Login ===================================== */
+/* ===================================== LOGIN ===================================== */
 
 .form-login {
     width: 20rem !important;
@@ -272,12 +275,51 @@ nav {
     height: calc(100vh - 2rem);
     margin: 1rem 0 1rem 1rem;
     overflow: hidden;
+    transition: margin-left 500ms cubic-bezier(0.445, 0.050, 0.550, 0.950), box-shadow 500ms linear, opacity 500ms cubic-bezier(1.000, -0.600, 1.000, -0.600);
+    transition-timing-function: cubic-bezier(0.445, 0.050, 0.550, 0.950), cubic-bezier(1.000, -0.600, 1.000, -0.600);
+}
+
+.sidebar-hidden {
+    margin-left: -20vw;
+    box-shadow: 0;
+    transition: margin-left 500ms cubic-bezier(0.445, 0.050, 0.550, 0.950), box-shadow 500ms linear, opacity 500ms cubic-bezier(0.000, 1.650, 0.000, 1.650) !important;
+    transition-timing-function: cubic-bezier(0.445, 0.050, 0.550, 0.950), cubic-bezier(0.000, 1.650, 0.000, 1.650) !important;
+    opacity: 0;
 }
 
 .sidebar-user-info {
-    margin: 1rem 1rem 0;
     white-space: nowrap;
     width: calc(100% - 2rem);
+    margin: 10vh 1rem 4vh;
+}
+
+.sidebar-toggler {
+    position: fixed;
+    margin: 2rem;
+    z-index: 10;
+    background-color: rgba(64, 64, 64, 0.3);
+    box-shadow: 0 0 2rem rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+    width: 6vh;
+    height: 6vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    transition: all 0.25s ease-in-out;
+}
+
+.hide-sidebar-toggler-icon {
+    background-image: url("/images/left-panel-close.svg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    height: 100%;
+    transition: background-image 500ms cubic-bezier(0.445, 0.050, 0.550, 0.950);
+}
+
+.show-sidebar-toggler-icon {
+    background-image: url("/images/left-panel-open.svg");
 }
 
 .user-name {
@@ -296,6 +338,7 @@ nav {
     display: inline-block;
     transform-origin: left;
     font-size: 1vw;
+    margin-top: -3vh;
 }
 
 .sidebar-buttons {
@@ -320,17 +363,18 @@ nav {
     font-weight: bold;
     border: 1px solid rgba(255, 255, 255, 0.2);
     transition: all 0.25s ease-in-out;
+    overflow: visible;
 }
 
 .sidebar-button-down {
     transition: all 0.25s ease-in-out;
     transform: scale(0.90);
-    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
 }
 
 .sidebar-button-enter {
     transition: all 0.25s ease-in-out;
-    transform: scale(1.15);
+    transform: scale(1.10);
 }
 
 .separator {
@@ -350,31 +394,129 @@ nav {
 
 .main-with-sidebar {
     flex: 1;
-    overflow: auto;
     margin-left: calc(20vw + 2rem);
-    height: 100%;
+    margin-right: 2rem;
+    transition: margin-left 500ms cubic-bezier(0.445, 0.050, 0.550, 0.950), margin-top 500ms cubic-bezier(0.445, 0.050, 0.550, 0.950);
+    transition-timing-function: cubic-bezier(0.445, 0.050, 0.550, 0.950);
 }
 
-
-/* ===================================== DASHBOARD ===================================== */
-
-/*CONTENT*/
-
-
-/* ===================================== SENDTRANSFER ===================================== */
+.main-with-sidebar-hidden {
+    margin-left: 1rem !important;
+    margin-top: 8vh !important;
+}
 
 .dashboard-form {
-    margin-top: -1rem !important;
+    margin-top: 10vh !important;
+    width: 80% !important;
 }
 
 
 /* ===================================== ACCOUNTS ===================================== */
 
 table {
-    overflow: auto;
+    width: 80%;
+    margin: 4rem auto 0;
+    border-radius: 1rem;
+    box-shadow: 0 0 0.5rem rgba(0,0,0,0.4);
+    background-color: rgba(16, 16, 16, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    overflow: hidden;
+    font-size: 1.5rem;
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+table thead {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+table th,
+table td {
+    padding: 1rem !important;
+    border-top: none;
+    border-left: none;
+}
+
+table tr:last-child td {
+    border-bottom: none;
+}
+table tr td:last-child,
+table tr th:last-child {
+    border-right: none;
+}
+
+table th {
+    font-weight: bold;
+}
+
+tr:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.accounts-set-as-active {
+    margin: 0 !important;
+    transform: scale(0.8) !important;
+}
+
+td {
+    text-align: center !important;
+    justify-content: center !important;
     border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
-tr, th, td {
+.container-create-new-account-button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.create-new-account-button {
+    margin-top: 5vh !important;
+    width: 20rem !important;
+}
+
+
+/* ===================================== TRANSFERSHISTORY ===================================== */
+
+.filter-panel {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-right: calc(100% - 4rem);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.table-transfers {
+    min-width: 95% !important;
+    font-size: 1rem !important;
+}
+
+.select {
+    background-color: rgba(64, 64, 64, 0.3);
+    filter: saturate(70%);
+    height: 4rem;
+    width: 100%;
     border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 2rem rgba(0, 0, 0, 0.1);
+    color: white;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#filterPanel {
+    max-height: 0;
+    opacity: 0;
+    transition: max-height 500ms ease, opacity 500ms ease;
+    overflow: hidden;
+}
+
+#filterPanel.open {
+    max-height: 55rem;
+    opacity: 1;
+    overflow: visible;
 }

@@ -16,8 +16,6 @@ namespace BankApp.Pages
         [BindProperty]
         public new DbUsers User { get; set; } = new();
 
-        // public string Message { get; set; } = string.Empty;
-
         public IActionResult OnPost()
         {
             // Jeśli są jakiekolwiek błędy, odświeża ponownie stronę.

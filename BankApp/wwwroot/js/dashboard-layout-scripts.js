@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {button: 'sideBarButton6'},
         {button: 'sideBarButton7'},
         {button: 'sideBarButton8'},
+        {button: 'sideBarToggler'},
     ];
 
     services.forEach(({button}) => {
@@ -43,4 +44,35 @@ document.addEventListener('DOMContentLoaded', () => {
         Button.addEventListener('touchstart', pressStart, {passive: true});
         Button.addEventListener('touchend', pressEnd);
     });
+});
+
+/* ================================ SHOW AND HIDE SIDEBAR ON CLICK ================================ */
+
+function toggleSidebar() {
+    const sidebar = document.getElementById('sideBar');
+    const mainWithSideBar = document.getElementById('mainWithSideBar');
+    const sideBarTogglerIcon = document.getElementById('sideBarTogglerIcon');
+
+    if (!sidebar.classList.contains('sidebar-expanded')) return;
+
+    const isHidden = sidebar.classList.toggle('sidebar-hidden');
+    sideBarTogglerIcon.classList.toggle('show-sidebar-toggler-icon');
+    mainWithSideBar.classList.toggle('main-with-sidebar-hidden');
+    
+    localStorage.setItem('sidebarHidden', isHidden ? 'true' : 'false');
+}
+
+// Restore state on page load
+window.addEventListener('DOMContentLoaded', () => {
+    const sidebar = document.getElementById('sideBar');
+    const mainWithSideBar = document.getElementById('mainWithSideBar');
+    const sideBarTogglerIcon = document.getElementById('sideBarTogglerIcon');
+
+    const sidebarHidden = localStorage.getItem('sidebarHidden') === 'true';
+
+    if (sidebarHidden && sidebar.classList.contains('sidebar-expanded')) {
+        sidebar.classList.add('sidebar-hidden');
+        sideBarTogglerIcon.classList.add('show-sidebar-toggler-icon');
+        mainWithSideBar.classList.add('main-with-sidebar-hidden');
+    }
 });

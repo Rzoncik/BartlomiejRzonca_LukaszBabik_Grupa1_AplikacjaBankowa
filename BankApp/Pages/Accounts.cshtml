@@ -8,13 +8,13 @@
 
 <h1 class="title">Twoje rachunki</h1>
 
-<table>
+<table class="dashboard-form">
     <thead>
     <tr>
-        <th>IBAN</th>
-        <th>Balance</th>
-        <th>Selected</th>
-        <th>Actions</th>
+        <th>Rachunek</th>
+        <th>Środki</th>
+        <th>Wybrane</th>
+        <th>Akcje</th>
     </tr>
     </thead>
     <tbody>
@@ -26,7 +26,7 @@
             <td>
                 @if (acc.Iban == Model.SelectedIban)
                 {
-                    <span class="badge green">Current</span>
+                    <span>Aktualnie używane</span>
                 }
             </td>
             <td>
@@ -34,7 +34,7 @@
                 {
                     <form method="post" asp-page-handler="Switch">
                         <input type="hidden" name="iban" value="@acc.Iban" />
-                        <input type="submit" value="Ustaw jako aktywny" />
+                        <input type="submit" class="accounts-set-as-active" value="Ustaw jako aktywny" />
                     </form>
                 }
             </td>
@@ -43,6 +43,11 @@
     </tbody>
 </table>
 
-<form method="post" asp-page-handler="Create">
-    <input type="submit" value="Stwórz nowe konto" />
+<form method="post" asp-page-handler="Create" class="container-create-new-account-button">
+    <input type="submit" value="Stwórz nowe konto" class="create-new-account-button" />
 </form>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>

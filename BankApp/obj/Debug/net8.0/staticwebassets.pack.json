@@ -29,6 +29,14 @@
       "PackagePath": "staticwebassets/images/happy-people.png"
     },
     {
+      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/left-panel-close.svg",
+      "PackagePath": "staticwebassets/images/left-panel-close.svg"
+    },
+    {
+      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/left-panel-open.svg",
+      "PackagePath": "staticwebassets/images/left-panel-open.svg"
+    },
+    {
       "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/logo.png",
       "PackagePath": "staticwebassets/images/logo.png"
     },

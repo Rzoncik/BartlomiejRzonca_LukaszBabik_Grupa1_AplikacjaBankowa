@@ -5,65 +5,51 @@
     Layout = "Shared/_DashboardLayout";
 }
 
-<h2 class="center-align">Historia przelewów</h2>
+<h1 class="title">Historia operacji</h1>
 
+<section class="form dashboard-form filters">
 <!-- Przycisk pokazujący / ukrywający panel filtrów -->
-<div class="right-align">
-    <a id="toggleFilters" class="btn-flat waves-effect">
-        <i class="material-icons left">Filtry</i>
-    </a>
-</div>
+<a href="#" id="toggleFilters" class="filter-panel">Filtry</a>
 
 <!-- Panel filtrów (domyślnie ukryty) -->
-<div id="filterPanel" class="card-panel z-depth-1" style="display:none;">
-    <form id="filterForm" class="row" autocomplete="off">
-        <div class="input-field col s12 m2">
-            <input type="text" id="fromDate" class="datepicker">
-            <label for="fromDate">Od daty</label>
-        </div>
-        <div class="input-field col s12 m2">
-            <input type="text" id="toDate" class="datepicker">
-            <label for="toDate">Do daty</label>
-        </div>
-        <div class="input-field col s12 m2">
-            <input id="minAmount" type="text" pattern="[0-9]+([\.,][0-9]{1,2})?">
-            <label for="minAmount">Kwota od</label>
-        </div>
-        <div class="input-field col s12 m2">
-            <input id="maxAmount" type="text" pattern="[0-9]+([\.,][0-9]{1,2})?">
-            <label for="maxAmount">Kwota do</label>
-        </div>
-        <div class="input-field col s12 m2">
-            <select id="flowType">
-                <option value="" selected>Wszystkie</option>
-                <option value="in">Wpływy</option>
-                <option value="out">Wydatki</option>
-            </select>
-            <label>Typ operacji</label>
-        </div>
-        <div class="input-field col s12 m1">
-            <input id="searchText" type="text">
-            <label for="searchText">Szukaj</label>
-        </div>
-        <div class="input-field col s12 m1 center-align">
-            <button id="applyFilter" class="btn waves-effect waves-light" type="submit">
-                Filtruj
-            </button>
-        </div>
+<section id="filterPanel">
+    <br/>
+    <br/>
+    <form id="filterForm" autocomplete="off">
+        <label for="fromDate">Od daty</label>
+        <input type="text" id="fromDate">
+        <label for="toDate">Do daty</label>
+        <input type="text" id="toDate">
+        <label for="minAmount">Kwota od</label>
+        <input id="minAmount" type="text" pattern="[0-9]+([\.,][0-9]{1,2})?">
+        <label for="maxAmount">Kwota do</label>
+        <input id="maxAmount" type="text" pattern="[0-9]+([\.,][0-9]{1,2})?">
+        <label>Typ operacji</label>
+        <br/>
+        <select id="flowType" class="select">
+            <option value="" selected>Wszystkie</option>
+            <option value="in">Wpływy</option>
+            <option value="out">Wydatki</option>
+        </select>
+        <br/>
+        <label for="searchText">Szukaj</label>
+        <input id="searchText" type="text">
+        <input id="applyFilter" type="submit" value="Filtruj"/>
     </form>
-</div>
+</section>
+</section>
 
-<table class="highlight responsive-table centered">
+<table class="dashboard-form table-transfers">
     <thead>
-        <tr>
-            <th>Data<br><small>(dd-MM-yyyy)</small></th>
-            <th>Kwota</th>
-            <th>Tytuł</th>
-            <th>Odbiorca</th>
-            <th>Nadawca</th>
-            <th>IBAN nadawcy</th>
-            <th>IBAN odbiorcy</th>
-        </tr>
+    <tr>
+        <th>Data</th>
+        <th>Kwota</th>
+        <th>Tytuł</th>
+        <th>Odbiorca</th>
+        <th>Nadawca</th>
+        <th>IBAN nadawcy</th>
+        <th>IBAN odbiorcy</th>
+    </tr>
     </thead>
     <tbody>
     @foreach (var t in Model.Transfers)
@@ -78,7 +64,7 @@
             data-title="@t.Title!.ToLower()"
             data-amount="@(Math.Abs(signedAmount).ToString(System.Globalization.CultureInfo.InvariantCulture))">
             <td>@t.ExecutedAtUtc.ToLocalTime().ToString("dd-MM-yyyy")</td>
-            <td class="right-align">
+            <td>
                 @(signedAmount.ToString("C", System.Globalization.CultureInfo.GetCultureInfo("pl-PL")))
             </td>
             <td>@t.Title</td>
@@ -90,51 +76,57 @@
     }
     </tbody>
 </table>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 @section Scripts {
     <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            // Inicjalizacja Materialize komponentów
-            M.FormSelect.init(document.querySelectorAll('select'));
-            M.Datepicker.init(document.querySelectorAll('.datepicker'), {
-                format: 'yyyy-mm-dd',
-                autoClose: true,
-                firstDay: 1
-            });
+        (() => {
+            'use strict';
 
-            // Toggle widoczności panelu filtrów
-            document.getElementById('toggleFilters').addEventListener('click', function () {
-                const panel = document.getElementById('filterPanel');
-                panel.style.display = (panel.style.display === 'none' || panel.style.display === '') ? 'block' : 'none';
-            });
-        });
+            /* ---------- helpers ---------- */
+            const parseAmount = raw => {
+                const v = raw.trim().replace(',', '.');
+                const n = v ? parseFloat(v) : NaN;
+                return isNaN(n) ? null : n;
+            };
 
-        // Obsługa filtrowania
-        document.getElementById('filterForm').addEventListener('submit', function (e) {
-            e.preventDefault();
-            const from = document.getElementById('fromDate').value;
-            const to = document.getElementById('toDate').value;
-            const flow = document.getElementById('flowType').value;
-            const query = document.getElementById('searchText').value.toLowerCase();
+            /* ---------- panel toggle with animation ---------- */
+            const filterPanel  = document.getElementById('filterPanel');
+            document.getElementById('toggleFilters')
+                    .addEventListener('click', () => {
+                        filterPanel.classList.toggle('open');      // CSS handles the animation
+                    });
 
-            const minAmountValRaw = document.getElementById('minAmount').value.trim().replace(',', '.');
-            const maxAmountValRaw = document.getElementById('maxAmount').value.trim().replace(',', '.');
-            const minAmount = minAmountValRaw ? parseFloat(minAmountValRaw) : null;
-            const maxAmount = maxAmountValRaw ? parseFloat(maxAmountValRaw) : null;
+            /* ---------- filtering (unchanged) ---------- */
+            document.getElementById('filterForm')
+                    .addEventListener('submit', e => {
+                        e.preventDefault();
 
-            document.querySelectorAll('tbody tr').forEach(row => {
-                const date = row.getAttribute('data-date');
-                const type = row.getAttribute('data-type');
-                const title = row.getAttribute('data-title');
-                const amount = parseFloat(row.getAttribute('data-amount'));
+                        const fromDate = document.getElementById('fromDate').value;
+                        const toDate   = document.getElementById('toDate').value;
+                        const flow     = document.getElementById('flowType').value;
+                        const query    = document.getElementById('searchText').value.trim().toLowerCase();
+                        const minAmount = parseAmount(document.getElementById('minAmount').value);
+                        const maxAmount = parseAmount(document.getElementById('maxAmount').value);
 
-                const inRangeDate = (!from || date >= from) && (!to || date <= to);
-                const matchesType = !flow || type === flow;
-                const matchesQuery = !query || title.includes(query);
-                const inAmountRange = (!minAmount || amount >= minAmount) && (!maxAmount || amount <= maxAmount);
+                        document.querySelectorAll('tbody tr').forEach(row => {
+                            const date   = row.dataset.date;
+                            const type   = row.dataset.type;
+                            const title  = row.dataset.title;   // already lower-case
+                            const amount = parseFloat(row.dataset.amount);
 
-                row.style.display = (inRangeDate && matchesType && matchesQuery && inAmountRange) ? '' : 'none';
-            });
-        });
+                            const dateOK = (!fromDate || date >= fromDate) && (!toDate || date <= toDate);
+                            const typeOK = !flow || type === flow;
+                            const textOK = !query || title.includes(query);
+                            const amtOK  = (!minAmount || amount >= minAmount) && (!maxAmount || amount <= maxAmount);
+
+                            row.style.display = (dateOK && typeOK && textOK && amtOK) ? '' : 'none';
+                        });
+                    });
+        })();
     </script>
 }

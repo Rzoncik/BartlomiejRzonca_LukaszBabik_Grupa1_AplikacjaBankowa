@@ -8,7 +8,7 @@
 <h1 class="title">Zarejestruj się</h1>
 
 @* Formularz rejestracji. *@
-    <form method="post">
+    <form method="post" class="form">
         <label asp-for="User.FirstName"></label>
         <input asp-for="User.FirstName" />
         <label asp-for="User.LastName"></label>
@@ -18,16 +18,13 @@
         <label asp-for="User.Pesel"></label>
         <input asp-for="User.Pesel" />
         <label asp-for="User.IdCard"></label>
-        <input asp-for="User.IdCard" />
-        <span class="hint">Przykład: ABC123456.</span>
-        <br/>
-        <br/>
+        <input asp-for="User.IdCard" placeholder="ABC123456" />
         <label asp-for="User.City"></label>
         <input asp-for="User.City" />
         <label asp-for="User.StreetAndBuilding"></label>
         <input asp-for="User.StreetAndBuilding" />
-        <label asp-for="User.Apartment"></label><span class="hint"> (opcjonalne)</span>
-        <input asp-for="User.Apartment" />
+        <label asp-for="User.Apartment"></label>
+        <input asp-for="User.Apartment" placeholder="(opcjonalne)" />
         <label asp-for="User.PostalCode"></label>
         <input asp-for="User.PostalCode" />
         <label asp-for="User.PhoneNumber"></label>

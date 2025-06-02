@@ -13,13 +13,17 @@
         @RenderSection("Styles", required: false)
     </head>
 <body>
-<section class="sidebar-expanded">
+<a class="sidebar-toggler" onclick="toggleSidebar()" href="#" id="sideBarToggler">
+    <section class="hide-sidebar-toggler-icon" id="sideBarTogglerIcon"></section>
+</a>
+
+<section class="sidebar-expanded" id="sideBar">
     <section class="sidebar-user-info">
-    <section>
-        <span class="user-name">@Context.Session.GetString("FirstName") @Context.Session.GetString("LastName")</span>
-        <br/>
-        <span class="balance">Środki: @Context.Session.GetString("Balance")zł</span>
-    </section>
+        <section>
+            <span class="user-name">@Context.Session.GetString("FirstName") @Context.Session.GetString("LastName")</span>
+            <br/>
+            <span class="balance">Środki: @Context.Session.GetString("Balance")zł</span>
+        </section>
     </section>
 
     <section class="sidebar-buttons">
@@ -32,7 +36,7 @@
         </a>
 
         <a asp-page="/Accounts">
-            <section class="sidebar-button" id="sideBarButton3"><span>Konta bankowe</span></section>
+            <section class="sidebar-button" id="sideBarButton3"><span>Rachunki</span></section>
         </a>
 
         <a asp-page="/ChangeUserData">
@@ -57,11 +61,11 @@
     </section>
 </section>
 
-<main class="main-with-sidebar">
+<main class="main-with-sidebar" id="mainWithSideBar">
     @RenderBody()
 </main>
 
-<partial name="_ValidationToast" />
+<partial name="_ValidationToast"/>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="js/dashboard-layout-scripts.js"></script>

@@ -15,37 +15,46 @@ namespace BankApp.Pages
 
         public class InputModel
         {
+            [BindProperty]
+            [Display(Name = "Hasło")]
             [Required]
-            [DataType(DataType.Password)]
             [RegularExpression(@"^(?=.*[A-Z])(?=.*\d)(?=.*[\W_]).{8,}$", ErrorMessage = "Hasło musi mieć co najmniej 8 znaków, zawierać wielką literę, cyfrę i znak specjalny.")]
             public string Password { get; set; } = null!;
 
+            [BindProperty]
+            [Display(Name = "Wprowadź hasło ponownie")]
             [Required]
-            [DataType(DataType.Password)]
             [Compare(nameof(Password), ErrorMessage = "Hasła nie są zgodne.")]
             public string PasswordConfirm { get; set; } = null!;
 
+            [BindProperty]
+            [Display(Name = "Miasto")]
             [Required]
-            [MaxLength(64)]
             public string City { get; set; } = null!;
             
+            [BindProperty]
+            [Display(Name = "Ulica i numer budynku")]
             [Required]
-            [MaxLength(64)]
             public string StreetAndBuilding { get; set; } = null!;
 
-            [MaxLength(64)]
+            [BindProperty]
+            [Display(Name = "Lokal")]
             public string? Apartment { get; set; }
             
+            [BindProperty]
+            [Display(Name = "Kod pocztowy")]
             [Required]
-            [MaxLength(6)]
             [RegularExpression(@"^\d{2}-\d{3}$", ErrorMessage = "Format 00-000")]
             public string PostalCode { get; set; } = null!;
             
+            [BindProperty]
+            [Display(Name = "Numer telefonu")]
             [Required]
-            [MaxLength(12)]
             [RegularExpression(@"^\+?\d{9,11}$")]
             public string PhoneNumber  { get; set; } = null!;
             
+            [BindProperty]
+            [Display(Name = "Email")]
             [Required]
             [MaxLength(256)]
             [EmailAddress]
