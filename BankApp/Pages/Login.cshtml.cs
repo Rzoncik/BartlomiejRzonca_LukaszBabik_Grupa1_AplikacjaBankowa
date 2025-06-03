@@ -78,6 +78,15 @@ namespace BankApp.Pages
                     ExpiresUtc   = DateTimeOffset.UtcNow.AddMinutes(30)
                 });
 
+            Response.Cookies.Append("SelectedIban", user.Iban!, new CookieOptions
+            {
+                IsEssential = true,                  // always stored even with cookie-consent banners
+                Expires     = DateTimeOffset.UtcNow.AddDays(1),
+                Secure      = true,                  // only over HTTPS
+                SameSite    = SameSiteMode.Strict,   // prevents cross-site sending
+                HttpOnly    = false                  // you need JS to read it on Dashboard
+            });
+            
             // Example of storing an extra per‑user value in server‑side session (optional):
             HttpContext.Session.SetInt32("UserId", user.UserId);
             HttpContext.Session.SetString("Password", user.Password);

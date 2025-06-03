@@ -76,3 +76,27 @@ window.addEventListener('DOMContentLoaded', () => {
         mainWithSideBar.classList.add('main-with-sidebar-hidden');
     }
 });
+
+
+/* ================================ DATE AND TIME ================================ */
+
+function updateDateTime() {
+    const now = new Date();
+    
+    const date = now.toLocaleDateString("pl-PL", {
+        weekday: "long",
+        year: "numeric",
+        month: "long",
+        day: "numeric"
+    });
+
+    const time = now.toLocaleTimeString("pl-PL", {
+        hour: "2-digit",
+        minute: "2-digit"
+    });
+
+    document.getElementById("dateTime").innerHTML = `${time}<br/>${date}`;
+}
+
+updateDateTime();
+setInterval(updateDateTime, 30000);

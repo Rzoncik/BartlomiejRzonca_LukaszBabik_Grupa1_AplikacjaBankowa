@@ -36,6 +36,9 @@
                         <input type="hidden" name="iban" value="@acc.Iban" />
                         <input type="submit" class="accounts-set-as-active" value="Ustaw jako aktywny" />
                     </form>
+                    <form method="post" asp-page-handler="Delete" asp-route-iban="@acc.Iban" onsubmit="return confirm('Czy na pewno chcesz usunąć ten rachunek?');" class="accounts-set-as-active">
+                        <input type="submit" class="sidebar-button" value="Usuń rachunek" />
+                    </form>
                 }
             </td>
         </tr>

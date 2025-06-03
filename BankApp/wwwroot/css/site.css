@@ -27,6 +27,7 @@ body {
     height: 100%;
     overflow-y: auto;
     overflow-x: auto;
+    scrollbar-gutter: stable both-edges;
 }
 
 /* 2. Chromium / WebKit browsers */
@@ -178,7 +179,7 @@ nav {
     overflow: hidden;
     background-color: rgba(16, 16, 16, 0.1);
     border-radius: 1.5rem;
-    backdrop-filter: saturate(180%) blur(50px);
+    backdrop-filter: saturate(120%) blur(50px);
     -webkit-backdrop-filter: blur(50px);
     border: 1px solid rgba(255, 255, 255, 0.2);
     box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.15);
@@ -259,6 +260,42 @@ nav {
 
 /* ===================================== _DASHBOARDLAYOUT ===================================== */
 
+.sidebar-toggler {
+    position: fixed;
+    margin: 2rem;
+    z-index: 10;
+    background-color: rgba(64, 64, 64, 0.3);
+    box-shadow: 0 0 2rem rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+    width: 6vh;
+    height: 6vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    transition: all 0.25s ease-in-out;
+    backdrop-filter: saturate(120%) blur(50px);
+    -webkit-backdrop-filter: blur(50px);
+}
+
+.date-time {
+    z-index: 5;
+    position: fixed;
+    font-size: 1.3rem;
+    text-align: right;
+    top: 2rem;
+    right: 2rem;
+    font-weight: bold;
+    width: auto;
+    padding: 0.75rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 0.5rem rgba(0,0,0,0.4);
+    background-color: rgba(16, 16, 16, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: saturate(120%) blur(50px);
+    -webkit-backdrop-filter: blur(50px);
+}
+
 .sidebar-expanded {
     position: fixed;
     box-sizing: border-box;
@@ -268,7 +305,7 @@ nav {
     flex-direction: column;
     background-color: rgba(16, 16, 16, 0.1);
     border-radius: 1.5rem;
-    backdrop-filter: saturate(180%) blur(50px);
+    backdrop-filter: saturate(120%) blur(50px);
     -webkit-backdrop-filter: blur(50px);
     border: 1px solid rgba(255, 255, 255, 0.2);
     box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.15);
@@ -290,7 +327,7 @@ nav {
 .sidebar-user-info {
     white-space: nowrap;
     width: calc(100% - 2rem);
-    margin: 10vh 1rem 4vh;
+    margin: 9vh 1rem 2.5vh;
 }
 
 .sidebar-toggler {
@@ -307,6 +344,8 @@ nav {
     align-items: center;
     display: flex;
     transition: all 0.25s ease-in-out;
+    backdrop-filter: saturate(120%) blur(50px);
+    -webkit-backdrop-filter: blur(50px);
 }
 
 .hide-sidebar-toggler-icon {
@@ -316,6 +355,7 @@ nav {
     width: 100%;
     height: 100%;
     transition: background-image 500ms cubic-bezier(0.445, 0.050, 0.550, 0.950);
+    transform: scale(1.2);
 }
 
 .show-sidebar-toggler-icon {
@@ -345,6 +385,7 @@ nav {
     overflow-x: hidden;
     overflow-y: auto;
     margin-top: 0;
+    scrollbar-gutter: stable both-edges;
 }
 
 .sidebar-button {
@@ -395,7 +436,7 @@ nav {
 .main-with-sidebar {
     flex: 1;
     margin-left: calc(20vw + 2rem);
-    margin-right: 2rem;
+    margin-right: calc(2rem - 12px);
     transition: margin-left 500ms cubic-bezier(0.445, 0.050, 0.550, 0.950), margin-top 500ms cubic-bezier(0.445, 0.050, 0.550, 0.950);
     transition-timing-function: cubic-bezier(0.445, 0.050, 0.550, 0.950);
 }
@@ -408,6 +449,35 @@ nav {
 .dashboard-form {
     margin-top: 10vh !important;
     width: 80% !important;
+}
+
+
+/* ===================================== DASHBOARD ===================================== */
+
+.user-iban {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+    font-size: 2rem;
+}
+
+.icon-btn {
+    margin-left: 1rem;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 0.25rem;
+    border-radius: 0.5rem;
+    transition: background 0.15s ease-in-out;
+    transform: scale(2);
+}
+
+.icon-btn:hover {
+    background:rgba(255,255,255,0.1);
 }
 
 
@@ -456,6 +526,11 @@ tr:hover {
 .accounts-set-as-active {
     margin: 0 !important;
     transform: scale(0.8) !important;
+    min-width: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
 }
 
 td {
@@ -519,4 +594,26 @@ td {
     max-height: 55rem;
     opacity: 1;
     overflow: visible;
+}
+
+
+/* ===================================== CURRENCIES ===================================== */
+
+.currencies-source {
+    display: flow;
+    justify-content: right;
+    text-align: right;
+    margin: 0.1rem;
+    opacity: 50%;
+}
+
+.currencies-source-link:hover {
+    text-decoration: underline;
+}
+
+
+/* ===================================== CREDITCARDINFO ===================================== */
+
+.credit-card-text {
+    font-size: 1.5rem;
 }

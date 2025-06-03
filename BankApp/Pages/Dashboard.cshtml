@@ -7,3 +7,22 @@
 }
 
 <h1 class="title">Witaj @Model.FirstName</h1>
+
+<section class="dashboard-form form user-iban">
+    <span id="ibanValue">@Model.Iban</span>
+    <button id="copyIbanBtn" class="icon-btn" type="button" title="Kopiuj IBAN">
+        <span class="material-symbols-outlined">content_copy</span>
+    </button>
+</section>
+
+@section Scripts {
+    <script>
+        document.getElementById('copyIbanBtn')
+                .addEventListener('click', () => {
+                    const iban = document.getElementById('ibanValue').textContent.trim();
+                    navigator.clipboard.writeText(iban)
+                        .then(() => console.log('IBAN copied'))
+                        .catch(err => console.error('Copy failed', err));
+                });
+    </script>
+}

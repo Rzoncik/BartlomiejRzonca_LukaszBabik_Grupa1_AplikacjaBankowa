@@ -5,37 +5,36 @@
     Layout = "Shared/_DashboardLayout";
 }
 
-<h3>Dane karty kredytowej</h3>
+<h1 class="title">Dane karty kredytowej</h1>
 
 @if (!Model.ShowCardInfo)
 {
-    <p>Aby wyświetlić dane karty, wprowadź swoje hasło.</p>
-
-    <form method="post" asp-antiforgery="true">
-        <div class="input-field">
-            <input asp-for="Password" type="password" class="validate" />
-            <label asp-for="Password">Hasło</label>
-            <span asp-validation-for="Password" class="helper-text" data-error="Błąd"></span>
-        </div>
-
-        <button class="btn waves-effect waves-light" type="submit">Pokaż dane</button>
+    <form method="post" asp-antiforgery="true" class="dashboard-form form"> 
+        <label asp-for="Password">Hasło</label>
+        <input asp-for="Password" type="password"/>
+        <span asp-validation-for="Password" data-error="Błąd"></span>
+        <input type="submit" value="Pokaż dane" />
     </form>
 }
 else
 {
-    <div class="card blue-grey darken-1">
-        <div class="card-content white-text">
-            <span class="card-title">Dane karty</span>
-            <p><strong>Numer karty:</strong>@Model.CreditCardNumber</p>
-            <p><strong>Ważna do:</strong>@Model.CreditCardExpiry</p>
-            <p><strong>CVV:</strong>@Model.CreditCardCvv</p>
-        </div>
-        <div class="card-action">
-            <a asp-page="CreditCardInfo">Ukryj</a>
-        </div>
-    </div>
+    <section class="dashboard-form form">
+        <span class="credit-card-text">Numer karty: @Model.CreditCardNumber</span>
+        <br/>
+        <span class="credit-card-text">Ważna do: @Model.CreditCardExpiry</span>
+        <br/>
+        <span class="credit-card-text">CVV: @Model.CreditCardCvv</span>
+        <br/>
+        <a asp-page="CreditCardInfo">
+            <input type="submit" value="Ukryj" />
+        </a>
+    </section>
 }
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 @section Scripts{
     <partial name="_ValidationScriptsPartial" />
 }
