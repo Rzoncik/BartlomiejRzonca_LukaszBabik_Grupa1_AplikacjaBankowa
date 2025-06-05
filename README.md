@@ -1,6 +1,10 @@
 <h1 align="center"style="font-size: 5vw;">Aplikacja Bankowa<br />RizzBank</h1>
-<section style="text-align: center;">
+<p align="center">
 <img src="BankApp/wwwroot/images/logo.png" alt="logo" style="height: 10em; vertical-align: middle; align-items: center;" />
+</p>
+<br />
+<br />
+<br />
 </section>
 
 
