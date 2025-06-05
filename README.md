@@ -1,7 +1,4 @@
----
-lastSync: Thu Jun 05 2025 16:54:32 GMT+0200 (czas środkowoeuropejski letni)
----
-<h1 align="center"style="font-size: 3vw;">Aplikacja Bankowa<br />RizzBank <img src="BankApp/wwwroot/images/logo.png" alt="logo" style="height: 1em; vertical-align: middle; margin-bottom: 0.15em;" /></h1>
+<h1 align="center"style="font-size: 3vw;">Aplikacja Bankowa<br />RizzBank <img src="BankApp/wwwroot/images/logo.png" alt="logo" style="height: 1em; vertical-align: middle;" /></h1>
 
 Repozytorium projektu zaliczeniowego grupy 1 (Bartłomiej Rzońca & Łukasz Babik) – pełnoprawna, choć uproszczona, bankowość internetowa napisana w ASP.NET Core 8.0 z wykorzystaniem Razor Pages i Entity Framework Core.
 Aplikacja pozwala utworzyć konto użytkownika, zalogować się, wykonywać przelewy, przeglądać historię operacji, sprawdzić bieżące kursy NBP oraz zarządzać danymi i kartą kredytową – wszystko za pomocą pojedynczej, lokalnej bazy SQLite.
