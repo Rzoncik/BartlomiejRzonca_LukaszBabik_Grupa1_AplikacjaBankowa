@@ -14,7 +14,7 @@ namespace BankApp.Helpers
             return firstThree + rest;
         }
         
-        // Klasa odpowiada za kapitalizację pierwszej litery wpisu, do którego się ją zaimplementuje.
+        // Klasa odpowiada za kapitalizację pierwszej litery tekstu, do którego się ją zaimplementuje.
         public static string CapitalizeFirstChar(string input)
         {
             return char.ToUpper(input[0]) + input.Substring(1).ToLower();
@@ -36,7 +36,7 @@ namespace BankApp.Helpers
             return iban;
         }
         
-        // Generuje 16-cyfrowy ciąg liczb.
+        // Generuje 16-cyfowy numer karty.
         public static string GenerateCreditCardNumber(AppDbContext context)
         {
             string creditCardNumber;
@@ -54,6 +54,7 @@ namespace BankApp.Helpers
             return creditCardNumber;
         }
         
+        // Generuje datę ważności karty.
         public static string GenerateCreditCardExpiry(AppDbContext context)
         {
             DateTime expiry = DateTime.UtcNow.AddMonths(60);
@@ -61,11 +62,14 @@ namespace BankApp.Helpers
             return expiry.ToString("MM'/'yy", CultureInfo.InvariantCulture);
         }
         
+        
+        // Generuje 3 magiczne cyferki karty.
         public static string GenerateCreditCardCvv(AppDbContext context)
         {
             return RandomizeHelper.Random.Next(100, 1000).ToString("D3");
         }
         
+        // Dodaje "+48" na początku numeru telefonu, jeśli użytkownik tego nie podał.
         public static string FixPhoneNumber(string raw)
         {
             if (string.IsNullOrWhiteSpace(raw))

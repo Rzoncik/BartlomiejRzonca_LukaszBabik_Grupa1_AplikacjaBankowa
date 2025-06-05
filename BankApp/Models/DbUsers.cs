@@ -1,6 +1,5 @@
-﻿// Tutaj wpisywane sa dane z bazy danych, na których będzie operować cały program.
+﻿// Tutaj wpisywane sa dane z tabeli Users z bazy danych, na których będzie operować cały program.
 
-using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 

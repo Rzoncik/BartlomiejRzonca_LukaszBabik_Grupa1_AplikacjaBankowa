@@ -1,4 +1,3 @@
-using System.ComponentModel.DataAnnotations;
 using System.Globalization;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Mvc;
@@ -12,25 +11,14 @@ namespace BankApp.Pages
 {
     public class LoginModel(AppDbContext context) : PageModel
     {
-        // [BindProperty]
-        // private int UserId { get; set; }
-        //
         [BindProperty]
-        // [Required(ErrorMessage = "Wprowadź login.")]
         public string? Login { get; set; }
         
         [BindProperty]
-        // [Required(ErrorMessage = "Wprowadź hasło.")]
         public string? Password { get; set; }
-
-        // [Required]
-        // public string? Message { get; set; }
         
         [TempData]
         public string? GeneratedLogin { get; set; }
-        
-        // [BindProperty]
-        // private string? FirstName { get; set; }
 
         //Generuje losowy 8-znakowy login.
         public void OnGet(string? generatedLogin)
@@ -41,7 +29,7 @@ namespace BankApp.Pages
             }
         }
         
-        
+        // Proces logowania, program szuka w czy w bazie znajduje się podany przez użytkownika login z hasłem odpowiadającym temu, co również podał użytkownik.
         public async Task<IActionResult> OnPostAsync()
         {
             if (Login == null || Password == null)
@@ -60,8 +48,7 @@ namespace BankApp.Pages
                 ModelState.AddModelError(string.Empty, "Niepoprawny login lub hasło.");
                 return Page();
             }
-
-            // ——— build the identity that will be stored in the cookie ———
+            
             var claims = new List<Claim>
             {
                 new Claim(ClaimTypes.NameIdentifier, user.UserId.ToString()),
@@ -74,20 +61,20 @@ namespace BankApp.Pages
             await HttpContext.SignInAsync(
                 CookieAuthenticationDefaults.AuthenticationScheme, principal, new AuthenticationProperties
                 {
-                    IsPersistent = true,                 // “Remember me” style; make false for session‑only
+                    IsPersistent = true,
                     ExpiresUtc   = DateTimeOffset.UtcNow.AddMinutes(30)
                 });
 
             Response.Cookies.Append("SelectedIban", user.Iban!, new CookieOptions
             {
-                IsEssential = true,                  // always stored even with cookie-consent banners
+                IsEssential = true,
                 Expires     = DateTimeOffset.UtcNow.AddDays(1),
-                Secure      = true,                  // only over HTTPS
-                SameSite    = SameSiteMode.Strict,   // prevents cross-site sending
-                HttpOnly    = false                  // you need JS to read it on Dashboard
+                Secure      = true,
+                SameSite    = SameSiteMode.Strict,
+                HttpOnly    = false
             });
             
-            // Example of storing an extra per‑user value in server‑side session (optional):
+            // Tutaj przechowywane są informacje na aktualną sesję użytkownika, pod warunkiem że logowanie przebiegnie pomyślnie.
             HttpContext.Session.SetInt32("UserId", user.UserId);
             HttpContext.Session.SetString("Password", user.Password);
             HttpContext.Session.SetString("PasswordConfirm", user.PasswordConfirm!);

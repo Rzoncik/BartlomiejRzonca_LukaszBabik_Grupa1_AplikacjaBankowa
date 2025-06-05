@@ -36,7 +36,7 @@ namespace BankApp.Pages
 
             var html = await http.GetStringAsync(SourceUrl);
 
-            // Strip tags → pure text (makes the parser robust to markup tweaks)
+            // Scrapuje informacje ze strony, pobiera jedynie dane, Bez formatowania.
             var doc = new HtmlDocument();
             
             doc.LoadHtml(html);

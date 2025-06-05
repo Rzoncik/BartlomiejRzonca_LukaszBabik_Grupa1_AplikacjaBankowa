@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/kvrZHjH1XXbdx4E/uhhSRyXTQAtgXdSm8KoLBKHL9g=",
+  "Hash": "CbWvlVY0VfrEFiY/MTJIXXtW3SKcS8bujk/AHOXNIQE=",
   "Source": "BankApp",
   "BasePath": "_content/BankApp",
   "Mode": "Default",
@@ -150,6 +150,25 @@
       "OriginalItemSpec": "wwwroot/images/gradient.svg"
     },
     {
+      "Identity": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/happy-lady-and-laptop.png",
+      "SourceId": "BankApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/",
+      "BasePath": "_content/BankApp",
+      "RelativePath": "images/happy-lady-and-laptop.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/happy-lady-and-laptop.png"
+    },
+    {
       "Identity": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/happy-people.png",
       "SourceId": "BankApp",
       "SourceType": "Discovered",
@@ -224,6 +243,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/logo.png"
+    },
+    {
+      "Identity": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/sigma-guy.png",
+      "SourceId": "BankApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/",
+      "BasePath": "_content/BankApp",
+      "RelativePath": "images/sigma-guy.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/sigma-guy.png"
     },
     {
       "Identity": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/js/dashboard-layout-scripts.js",

@@ -144,7 +144,7 @@ input[type=submit]:hover, input:hover {
     box-shadow: 0 0 1rem rgba(0,0,0,0.1);
     z-index: 10;
     font-size: 1rem;
-    line-height: 1.35;
+    line-height: 3vh;
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;
@@ -187,12 +187,13 @@ nav {
 }
 
 .logo {
+    background-color: rgba(0, 0, 0, 0);
     text-align: left;
     margin: 0.75rem;
     height: 4.5rem;
     width: 4.5rem;
     overflow: hidden;
-    box-shadow: 0 0 2rem rgba(0, 0, 0, 0.1);
+    filter: drop-shadow(0 0 0.5rem rgba(0, 0, 0, 0.15));
 }
 
 .nav-list {
@@ -232,22 +233,54 @@ nav {
 
 /* ===================================== INDEX ===================================== */
 
-.index {
-    justify-content: space-between;
-    width: 100%;
+.happy-people {
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
     display: flex;
     flex-direction: row;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
 }
 
-.index-text {
-    margin-top: 8rem;
+h2 {
+    font-family: Tiempos, sans-serif;
     font-size: 4rem;
-    font-weight: bold;
+    filter: drop-shadow(0 0 0.6rem rgba(0, 0, 0, 0.3));
+    margin-left: 2vw;
+    margin-top: 15vh;
 }
 
-.happy-people {
-    width: 60rem;
-    height: auto;
+.index-info {
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 90vw;
+}
+
+.index-list {
+    text-align: left;
+    line-height: 3rem;
+    color: #F2F2F2;
+}
+
+.quote-image {
+    width: 20vw;
+    height: 20vw;
+    border-radius: 1.5rem;
+    box-shadow: 0 0 2rem rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    margin-bottom: 5vh;
+    
+}
+
+.join-rizzbank {
+    font-size: 6vw !important;
+    margin-top: 20vh;
+    margin-bottom: 40vh;
 }
 
 
@@ -371,16 +404,6 @@ nav {
     transform-origin: left center;
 }
 
-.balance {
-    font-family: Tiempos, sans-serif;
-    filter: drop-shadow(0 0 0.6rem rgba(0, 0, 0, 0.3));
-    line-height: 8vh;
-    display: inline-block;
-    transform-origin: left;
-    font-size: 1vw;
-    margin-top: -3vh;
-}
-
 .sidebar-buttons {
     overflow-x: hidden;
     overflow-y: auto;
@@ -454,30 +477,50 @@ nav {
 
 /* ===================================== DASHBOARD ===================================== */
 
-.user-iban {
+.dashboard-container {
     display: flex;
-    align-items: center;
+    width: fit-content;
+    height: fit-content;
     flex-direction: row;
-    gap: 0.5rem;
-    margin-top: 0.5rem;
-    font-size: 2rem;
+    justify-content: start;
+    margin: 2vh;
+    padding: 2vh;
+    border-radius: 1rem;
+    box-shadow: 0 0 0.5rem rgba(0,0,0,0.4);
+    background-color: rgba(16, 16, 16, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    font-size: 2vw;
+    font-family: Tiempos, sans-serif;
 }
 
-.icon-btn {
-    margin-left: 1rem;
-    background: transparent;
+.dashboard-balance {
+    font-size: 3vw;
+    margin-bottom: -0.4vw;
+}
+
+.dashboard-iban {
+    margin-top: 0.3vw;
+}
+
+.copy-iban-button {
+    background-color: rgba(64, 64, 64, 0.2);
     border: none;
     cursor: pointer;
     display: flex;
     align-items: center;
+    justify-content: center;
     padding: 0.25rem;
     border-radius: 0.5rem;
     transition: background 0.15s ease-in-out;
-    transform: scale(2);
+    font-size: 100%;
+    width: 2vw;
+    height: 2vw;
+    margin-left: 0.5vw;
+    color: white;
 }
 
-.icon-btn:hover {
-    background:rgba(255,255,255,0.1);
+.copy-iban-button:hover {
+    background-color: rgba(64, 64, 64, 0.3);
 }
 
 

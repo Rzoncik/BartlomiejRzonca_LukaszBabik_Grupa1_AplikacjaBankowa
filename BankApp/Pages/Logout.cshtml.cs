@@ -9,13 +9,13 @@ namespace BankApp.Pages
     {
         public async Task<IActionResult> OnGet()
         {
-            // 1️⃣  remove everything stored in the server-side session
+            // Usuwa wszystko z sesji użytkownika.
             HttpContext.Session.Clear();
 
-            // 2️⃣  delete the authentication cookie
+            // Usuwa ciasteczka.
             await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
 
-            // 3️⃣  bounce the user back to Login (or Index – your choice)
+            // Przenosi użytkownika na stronę główną.
             return RedirectToPage("/Index");
         }
     }

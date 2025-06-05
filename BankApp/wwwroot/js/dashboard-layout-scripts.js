@@ -100,3 +100,12 @@ function updateDateTime() {
 
 updateDateTime();
 setInterval(updateDateTime, 30000);
+
+
+document.getElementById('copyIbanBtn')
+    .addEventListener('click', () => {
+        const iban = document.getElementById('ibanValue').textContent.trim();
+        navigator.clipboard.writeText(iban)
+            .then(() => console.log('IBAN copied'))
+            .catch(err => console.error('Copy failed', err));
+    });

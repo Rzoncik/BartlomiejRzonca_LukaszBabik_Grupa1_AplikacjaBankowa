@@ -1,7 +1,3 @@
-@* Toast‑style summary of validation errors (or any ViewData["ToastMessage"]) that floats in
-the top‑right corner on every page. Place this file in Pages/Shared and render it from
-_Layout.cshtml with <partial name="_ValidationToast" /> *@
-
 @using Microsoft.AspNetCore.Mvc.ModelBinding
     @model dynamic
 
@@ -12,7 +8,7 @@ _Layout.cshtml with <partial name="_ValidationToast" /> *@
 
 @if (hasErrors || !string.IsNullOrEmpty(toastMessage))
 {
-    <div id="validation-toast" class="validation-toast">
+    <section id="validation-toast" class="validation-toast">
         @if (hasErrors)
     {
         <section>
@@ -20,7 +16,8 @@ _Layout.cshtml with <partial name="_ValidationToast" /> *@
         {
             foreach (ModelError error in entry.Errors)
             {
-                <h2>@error.ErrorMessage</h2>
+                <span>@error.ErrorMessage</span>
+                <br/>
             }
         }
         </section>
@@ -30,7 +27,7 @@ _Layout.cshtml with <partial name="_ValidationToast" /> *@
         <span>@toastMessage</span>
     }
     <button type="button" class="close-btn" aria-label="Zamknij" onclick="document.getElementById('validation-toast').remove()">×</button>
-        </div>
+        </section>
 
         <script>
         // Auto‑hide after 6 seconds

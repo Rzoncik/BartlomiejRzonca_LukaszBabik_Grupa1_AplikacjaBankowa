@@ -7,14 +7,13 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.WebHost.ConfigureKestrel(opt =>
 {
-    // optional plain HTTP for old links / health checks
     opt.ListenAnyIP(5000);
 
-    // HTTPS (uses the cert we just created)
+    // Obsługa protokołu HTTPS.
     opt.ListenAnyIP(5001, listen =>
     {
         listen.Protocols = HttpProtocols.Http1AndHttp2;
-        listen.UseHttps();           // auto‑picks ~/.aspnet/https/*.pfx
+        listen.UseHttps();
     });
 });
 
@@ -22,13 +21,11 @@ builder.WebHost.ConfigureKestrel(opt =>
 builder.Services.AddRazorPages();
 
 
-builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
-    .AddCookie(opt =>
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(opt =>
     {
-        opt.LoginPath        = "/Login";      // where unauth users are redirected
-        // opt.AccessDeniedPath = "/Forbidden";  // optional
-        opt.ExpireTimeSpan   = TimeSpan.FromMinutes(30);
-        opt.SlidingExpiration = true;         // refresh on activity
+        opt.LoginPath = "/Login";
+        opt.ExpireTimeSpan = TimeSpan.FromMinutes(30);
+        opt.SlidingExpiration = true;
     });
 
 builder.Services.AddAuthorization();
@@ -37,8 +34,7 @@ builder.Services.AddSession();
 
 //Połączenie z bazą danych.
 var connectionString = "Data Source=Database.db";
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlite(connectionString));
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite(connectionString));
 
 var app = builder.Build();
 
@@ -53,8 +49,8 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-app.UseSession();            // *before* auth if you want session during sign‑in
-app.UseAuthentication();     // cookie validation happens here
+app.UseSession();
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapRazorPages();

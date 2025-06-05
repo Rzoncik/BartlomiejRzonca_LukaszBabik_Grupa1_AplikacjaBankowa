@@ -1,9 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using BankApp.Helpers;
 using BankApp.Models;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 
 namespace BankApp.Pages
@@ -61,12 +59,12 @@ namespace BankApp.Pages
             public string Email { get; set; } = null!;
         }
         
+        // Aktualizuje rekordy w bazie danych, zawierające ten sam login co aktualna sesja użytkownika.
         public IActionResult OnGet()
         {
             RedirectIfNotLoggedIn();
 
             var sample = context.Users.Find(CurrentUserId);
-            // if (sample is null) return RedirectToPage("/Login");
 
             Input = new InputModel
             {
@@ -79,8 +77,7 @@ namespace BankApp.Pages
             };
             return Page();
         }
-
-        /*———— UPDATE ALL RECORDS WITH SAME LOGIN ————*/
+        
         public async Task<IActionResult> OnPostAsync()
         {
             RedirectIfNotLoggedIn();

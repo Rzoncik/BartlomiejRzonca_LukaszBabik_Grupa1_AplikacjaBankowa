@@ -1,6 +1,7 @@
 // Paradygmat polimorfizmu
 
 using System.ComponentModel.DataAnnotations;
+using System.Globalization;
 using BankApp.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -10,13 +11,13 @@ namespace BankApp.Pages
     public class SendTransferModel(AppDbContext db) : BaseUserPageModel(db)
     {
         [BindProperty]
-        [Required]
-        [RegularExpression(@"^[A-Z]{2}\d{26}$", ErrorMessage = "Podaj poprawny IBAN.")]
+        [Required(ErrorMessage = "Pole rachunku odbiorcy jest wymagane.")]
+        [RegularExpression(@"^(?:[A-Z]{2})?\d{26}$", ErrorMessage = "Podaj poprawny IBAN.")]
         public string ReceiverIban { get; set; } = null!;
 
         [BindProperty]
-        [Required]
-        [Range(0.01, 1_000_000_000)]
+        [Required(ErrorMessage = "Kwota jest wymagana.")]
+        [Range(0.01, 1_000_000_000, ErrorMessage = "Kwota jest wymagana.")]
         [RegularExpression(@"^\d+([.,]\d{1,2})?$", ErrorMessage = "Kwota może mieć maksymalnie dwie cyfry po przecinku.")]
         [DisplayFormat(DataFormatString = "{0:F2}", ApplyFormatInEditMode = true)]
         public decimal Amount { get; set; }
@@ -27,9 +28,9 @@ namespace BankApp.Pages
         
         [BindProperty]
         public string? Title { get; set; }
-
+        
         public void OnGet() { }
-
+        
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid) return Page();
@@ -37,6 +38,10 @@ namespace BankApp.Pages
             RedirectIfNotLoggedIn();
 
             var sender = await GetCurrentUserAsync();
+            
+            ReceiverIban = ReceiverIban?.Trim().Replace(" ", "").ToUpperInvariant() ?? "";
+            if (!ReceiverIban.StartsWith("PL", StringComparison.OrdinalIgnoreCase))
+                ReceiverIban = "PL" + ReceiverIban;
 
             var strategy = new InternalTransferProcessor(context, sender, ReceiverIban, Amount, ReceiversName, Title);
             var validationError = await strategy.ExecuteAsync();
@@ -46,11 +51,14 @@ namespace BankApp.Pages
                 ModelState.AddModelError(validationError.MemberNames.First(), validationError.ErrorMessage!);
                 return Page();
             }
+            
+            HttpContext.Session.SetString("Balance",
+                sender.Balance.ToString(CultureInfo.InvariantCulture));
 
             return RedirectToPage("/Dashboard");
         }
 
-        /*—————————————— POLYMORPHIC TRANSFER PROCESSORS ——————————————*/
+        // Paradygmat polimorfizmu. Pozwala na rozbudowę o kolejne typy przelewów (SEPA, SWIFT).
         private abstract class TransferProcessor(
             AppDbContext db,
             DbUsers sender,
@@ -77,11 +85,7 @@ namespace BankApp.Pages
             protected abstract Task<ValidationResult?> ValidateAsync();
             protected abstract Task ApplyAsync();
         }
-
-        /// <summary>
-        /// Handles classic intra‑bank transfers (both accounts exist in the local DB).
-        /// New variants (SEPA, SWIFT, etc.) can be introduced by subclassing <see cref="TransferProcessor"/>.
-        /// </summary>
+        
         private sealed class InternalTransferProcessor(
             AppDbContext db,
             DbUsers sender,

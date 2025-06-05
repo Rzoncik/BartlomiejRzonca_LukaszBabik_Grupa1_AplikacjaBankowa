@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets/images/gradient.svg"
     },
     {
+      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/happy-lady-and-laptop.png",
+      "PackagePath": "staticwebassets/images/happy-lady-and-laptop.png"
+    },
+    {
       "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/happy-people.png",
       "PackagePath": "staticwebassets/images/happy-people.png"
     },
@@ -39,6 +43,10 @@
     {
       "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/logo.png",
       "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/sigma-guy.png",
+      "PackagePath": "staticwebassets/images/sigma-guy.png"
     },
     {
       "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/js/dashboard-layout-scripts.js",

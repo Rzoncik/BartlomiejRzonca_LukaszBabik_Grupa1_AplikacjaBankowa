@@ -1,10 +1,7 @@
 using System.ComponentModel.DataAnnotations;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
 using BankApp.Models;
 using BankApp.Helpers;
-using Microsoft.EntityFrameworkCore;
 
 namespace BankApp.Pages
 {
@@ -34,6 +31,7 @@ namespace BankApp.Pages
 
             var user = await GetCurrentUserAsync();
 
+            // Walidacja hasła.
             var hashedInput = PasswordHelper.HashPassword(Password);
             if (user.Password != hashedInput)
             {

@@ -1,6 +1,4 @@
-﻿//Tutaj deklarowana jest baza danyc, żeby ją wykorzystać w wybranym elemencie programu.
-
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace BankApp.Models
 {

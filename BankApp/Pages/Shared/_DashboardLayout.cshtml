@@ -21,9 +21,10 @@
 <section class="sidebar-expanded" id="sideBar">
     <section class="sidebar-user-info">
         <section>
-            <span class="user-name">@Context.Session.GetString("FirstName") @Context.Session.GetString("LastName")</span>
-            <br/>
-            <span class="balance">Środki: @Context.Session.GetString("Balance")zł</span>
+            <span class="user-name">@Context.Session.GetString("FirstName") @Context.Session.GetString("LastName")
+                <br/>
+                Środki: @Context.Session.GetString("Balance") zł
+            </span>
         </section>
     </section>
 
@@ -49,7 +50,7 @@
         </a>
 
         <a asp-page="/Currencies">
-            <section class="sidebar-button" id="sideBarButton6"><span>Waluty</span></section>
+            <section class="sidebar-button" id="sideBarButton6"><span>Kursy walut</span></section>
         </a>
 
         <a asp-page="/CreditCardInfo">

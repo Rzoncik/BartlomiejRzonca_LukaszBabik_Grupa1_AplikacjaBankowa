@@ -1,23 +1,19 @@
 using System.Globalization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 using BankApp.Models;
 using BankApp.Helpers;
 
 namespace BankApp.Pages
 {
-    // Keeps each user logically split into "accounts" that share the same credentials
     public class AccountsModel(AppDbContext db) : BaseUserPageModel(db)
     {
         public List<DbUsers> Accounts { get; private set; } = [];
         public string? SelectedIban { get; private set; }
-
-        /* ---------- GET ---------- */
+        
         public void OnGet() => LoadAccounts();
 
-        /* ---------- POST — create a brand‑new account ---------- */
+        // Tworzy nowy rachunek bankowy.
         public IActionResult OnPostCreate()
         {
             RedirectIfNotLoggedIn();
@@ -51,11 +47,11 @@ namespace BankApp.Pages
             context.Users.Add(clone);
             context.SaveChanges();
 
-            SetActiveAccount(clone);          // cookie + session synced
-            return RedirectToPage();          // refresh
+            SetActiveAccount(clone);
+            return RedirectToPage();
         }
 
-        /* ---------- POST — switch to an existing account ---------- */
+        // Przełącza na inny rachunek.
         public IActionResult OnPostSwitch(string iban)
         {
             RedirectIfNotLoggedIn();
@@ -66,10 +62,10 @@ namespace BankApp.Pages
 
             SetActiveAccount(account);
             HttpContext.Session.SetString("Balance", account.Balance.ToString(CultureInfo.InvariantCulture));
-            return RedirectToPage();          // reload -> OnGet()
+            return RedirectToPage();
         }
 
-        /* ---------- POST — delete an INACTIVE account (saldo = 0) ---------- */
+        // Usuwa rachunek, jeśli nie jest aktualnie używany oraz jego środki są równe 0.
         public IActionResult OnPostDelete(string iban)
         {
             RedirectIfNotLoggedIn();
@@ -77,28 +73,24 @@ namespace BankApp.Pages
             var login   = User.Identity!.Name!;
             var account = context.Users.FirstOrDefault(u => u.Login == login && u.Iban == iban);
             if (account is null)                             return NotFound();
-
-            // 🔐 forbid removing the active account
+            
             if (Request.Cookies["SelectedIban"] == account.Iban)
                 return Forbid();
-
-            // 🔐 saldo musi być dokładnie 0,00 zł
+            
             if (account.Balance != 0m)
             {
-                ModelState.AddModelError(string.Empty, "Konto można usunąć tylko, gdy saldo wynosi 0,00 zł.");
+                ModelState.AddModelError(string.Empty, "Konto można usunąć tylko, gdy saldo wynosi 0,00 zł.");
                 LoadAccounts();
                 return Page();
             }
-
-            // 🔐 nie można usunąć ostatniego konta użytkownika
+            
             if (context.Users.Count(u => u.Login == login) <= 1)
             {
                 ModelState.AddModelError(string.Empty, "Nie można usunąć jedynego konta użytkownika.");
                 LoadAccounts();
                 return Page();
             }
-
-            // 🔐 musi być brak przelewów powiązanych (nadawcą lub odbiorcą)
+            
             var hasTransfers = context.Transfers.Any(t => t.SenderUserId == account.UserId ||
                                                           t.ReceiverUserId == account.UserId);
             if (hasTransfers)
@@ -108,7 +100,7 @@ namespace BankApp.Pages
                 return Page();
             }
 
-            /* —— delete inside a DB transaction —— */
+            // Usuwa rachunek z bazy danych.
             using var tx = context.Database.BeginTransaction();
             try
             {
@@ -122,13 +114,11 @@ namespace BankApp.Pages
                 throw;
             }
 
-            return RedirectToPage();          // back to refreshed list
+            return RedirectToPage();
         }
-
-        /* ---------- helpers ---------- */
+        
         private void SetActiveAccount(DbUsers account)
         {
-            // 1️⃣ persistent cookie for UI
             Response.Cookies.Append("SelectedIban", account.Iban!, new CookieOptions
             {
                 Expires   = DateTimeOffset.UtcNow.AddDays(30),
@@ -136,28 +126,25 @@ namespace BankApp.Pages
                 Secure    = true,
                 SameSite  = SameSiteMode.Strict
             });
-
-            // 2️⃣ server‑side session for business logic
+            
             HttpContext.Session.SetInt32("UserId", account.UserId);
+            HttpContext.Session.SetString("Balance", account.Balance.ToString(CultureInfo.InvariantCulture));
         }
 
         private void LoadAccounts()
         {
             var login = User.Identity!.Name!;
 
-            Accounts = context.Users.Where(u => u.Login == login)
-                                     .OrderBy(u => u.UserId)
-                                     .ToList();
+            Accounts = context.Users.Where(u => u.Login == login).OrderBy(u => u.UserId).ToList();
             if (Accounts.Count == 0) return;
 
             SelectedIban = Request.Cookies["SelectedIban"];
 
             if (SelectedIban is null || Accounts.All(a => a.Iban != SelectedIban))
-                SelectedIban = Accounts.First().Iban;           // fallback
+                SelectedIban = Accounts.First().Iban;
 
             var active = Accounts.First(a => a.Iban == SelectedIban);
-
-            /* keep cookie & session in sync */
+            
             if (Request.Cookies["SelectedIban"] != SelectedIban)
             {
                 Response.Cookies.Append("SelectedIban", SelectedIban!, new CookieOptions
