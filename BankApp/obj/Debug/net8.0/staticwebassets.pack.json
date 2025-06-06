@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/BankApp.bundle.scp.css"
     },
     {
+      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/Database.db",
+      "PackagePath": "staticwebassets/Database.db"
+    },
+    {
       "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

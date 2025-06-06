@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "D5Fv8lnNjLZMzM2OIemyPgT04MtUvMVwFy/Uw0Flytg=",
+  "Hash": "F9LrzsT/mOxyj0j+lCm7ErsUQiUd1MkdtZT6U/QKHGU=",
   "Source": "BankApp",
   "BasePath": "_content/BankApp",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/Database.db",
+      "SourceId": "BankApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/",
+      "BasePath": "_content/BankApp",
+      "RelativePath": "Database.db",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Database.db"
     },
     {
       "Identity": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/favicon.ico",

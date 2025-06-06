@@ -4,15 +4,14 @@
 @model ChangeUserDataModel
 @{
     ViewData["Title"] = "Edytuj konto";
-    Layout = "Shared/_DashboardLayout";
+    Layout = "~/Pages/Shared/_DashboardLayout.cshtml";
 }
 
 <h1 class="title">Zmień swoje dane</h1>
 
 <form method="post" class="form dashboard-form">
     <section asp-validation-summary="ModelOnly" class="text-danger"></section>
-
-    <!-- PASSWORD -->
+    
     <section>
         <label asp-for="Input.Password"></label>
         <input asp-for="Input.Password" type="password" autocomplete="new-password"/>
@@ -22,8 +21,7 @@
         <label asp-for="Input.PasswordConfirm"></label>
         <input asp-for="Input.PasswordConfirm" type="password" autocomplete="new-password"/>
     </section>
-
-    <!-- ADDRESS -->
+    
     <section>
         <label asp-for="Input.City"></label>
         <input asp-for="Input.City"/>
@@ -43,8 +41,7 @@
         <label asp-for="Input.PostalCode"></label>
         <input asp-for="Input.PostalCode"/>
     </section>
-
-    <!-- CONTACT -->
+    
     <section>
         <label asp-for="Input.PhoneNumber"></label>
         <input asp-for="Input.PhoneNumber"/>
@@ -64,5 +61,5 @@
 <br/>
 
 @section Scripts {
-    <partial name="_ValidationScriptsPartial"/>
+    <partial name="~/Pages/Shared/_ValidationScriptsPartial.cshtml"/>
 }

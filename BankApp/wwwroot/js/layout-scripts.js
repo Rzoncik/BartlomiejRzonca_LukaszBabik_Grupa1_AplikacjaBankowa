@@ -31,8 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         Button.addEventListener('mousedown', pressStart);
         Button.addEventListener('mouseup', pressEnd);
-
-        /* Also support touch */
+        
         Button.addEventListener('touchstart', pressStart, {passive: true});
         Button.addEventListener('touchend', pressEnd);
     });

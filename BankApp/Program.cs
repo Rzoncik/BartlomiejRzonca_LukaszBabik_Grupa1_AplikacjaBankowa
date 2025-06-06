@@ -33,7 +33,7 @@ builder.Services.AddSession();
 
 
 //Połączenie z bazą danych.
-var connectionString = "Data Source=Database.db";
+var connectionString = "Data Source=wwwroot/Database.db";
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite(connectionString));
 
 var app = builder.Build();

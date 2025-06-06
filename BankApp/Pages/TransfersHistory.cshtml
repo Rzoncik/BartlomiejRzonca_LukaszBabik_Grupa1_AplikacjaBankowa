@@ -2,41 +2,42 @@
 @model TransfersHistoryModel
 @{
     ViewData["Title"] = "Historia operacji";
-    Layout = "Shared/_DashboardLayout";
+    Layout = "~/Pages/Shared/_DashboardLayout.cshtml";
 }
 
 <h1 class="title">Historia operacji</h1>
 
 <section class="form dashboard-form filters">
-<!-- Przycisk pokazujący / ukrywający panel filtrów -->
-<a href="#" id="toggleFilters" class="filter-panel">Filtry</a>
+    
+    @* Przycisk pokazujący i ukrywający panel filtrów *@
+    <a href="#" id="toggleFilters" class="filter-panel">Filtry</a>
 
-<!-- Panel filtrów (domyślnie ukryty) -->
-<section id="filterPanel">
-    <br/>
-    <br/>
-    <form id="filterForm" autocomplete="off">
-        <label for="fromDate">Od daty</label>
-        <input type="text" id="fromDate">
-        <label for="toDate">Do daty</label>
-        <input type="text" id="toDate">
-        <label for="minAmount">Kwota od</label>
-        <input id="minAmount" type="text" pattern="[0-9]+([\.,][0-9]{1,2})?">
-        <label for="maxAmount">Kwota do</label>
-        <input id="maxAmount" type="text" pattern="[0-9]+([\.,][0-9]{1,2})?">
-        <label>Typ operacji</label>
+    @* Panel filtrów *@
+    <section id="filterPanel">
         <br/>
-        <select id="flowType" class="select">
-            <option value="" selected>Wszystkie</option>
-            <option value="in">Wpływy</option>
-            <option value="out">Wydatki</option>
-        </select>
         <br/>
-        <label for="searchText">Szukaj</label>
-        <input id="searchText" type="text">
-        <input id="applyFilter" type="submit" value="Filtruj"/>
-    </form>
-</section>
+        <form id="filterForm" autocomplete="off">
+            <label for="fromDate">Od daty</label>
+            <input type="text" id="fromDate">
+            <label for="toDate">Do daty</label>
+            <input type="text" id="toDate">
+            <label for="minAmount">Kwota od</label>
+            <input id="minAmount" type="text" pattern="[0-9]+([\.,][0-9]{1,2})?">
+            <label for="maxAmount">Kwota do</label>
+            <input id="maxAmount" type="text" pattern="[0-9]+([\.,][0-9]{1,2})?">
+            <label>Typ operacji</label>
+            <br/>
+            <select id="flowType" class="select">
+                <option value="" selected>Wszystkie</option>
+                <option value="in">Wpływy</option>
+                <option value="out">Wydatki</option>
+            </select>
+            <br/>
+            <label for="searchText">Szukaj</label>
+            <input id="searchText" type="text">
+            <input id="applyFilter" type="submit" value="Filtruj"/>
+        </form>
+    </section>
 </section>
 
 <table class="dashboard-form table-transfers">
@@ -86,25 +87,21 @@
     <script>
         (() => {
             'use strict';
-
-            /* ---------- helpers ---------- */
+            
             const parseAmount = raw => {
                 const v = raw.trim().replace(',', '.');
                 const n = v ? parseFloat(v) : NaN;
                 return isNaN(n) ? null : n;
             };
-
-            /* ---------- panel toggle with animation ---------- */
+            
             const filterPanel  = document.getElementById('filterPanel');
             document.getElementById('toggleFilters')
                     .addEventListener('click', () => {
-                        filterPanel.classList.toggle('open');      // CSS handles the animation
+                        filterPanel.classList.toggle('open');
                     });
-
-            /* ---------- filtering (unchanged) ---------- */
-            document.getElementById('filterForm')
-                    .addEventListener('submit', e => {
-                        e.preventDefault();
+            
+            document.getElementById('filterForm').addEventListener('submit', e => {
+                e.preventDefault();
 
                         const fromDate = document.getElementById('fromDate').value;
                         const toDate   = document.getElementById('toDate').value;
@@ -116,7 +113,7 @@
                         document.querySelectorAll('tbody tr').forEach(row => {
                             const date   = row.dataset.date;
                             const type   = row.dataset.type;
-                            const title  = row.dataset.title;   // already lower-case
+                            const title  = row.dataset.title;
                             const amount = parseFloat(row.dataset.amount);
 
                             const dateOK = (!fromDate || date >= fromDate) && (!toDate || date <= toDate);

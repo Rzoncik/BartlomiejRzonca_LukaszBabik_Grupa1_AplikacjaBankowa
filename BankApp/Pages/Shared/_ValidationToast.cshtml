@@ -1,7 +1,7 @@
 @using Microsoft.AspNetCore.Mvc.ModelBinding
-    @model dynamic
+@model dynamic
 
-    @{
+@{
     bool hasErrors = !ViewData.ModelState.IsValid;
     string? toastMessage = ViewData["ToastMessage"] as string;
 }
@@ -30,7 +30,6 @@
         </section>
 
         <script>
-        // Auto‑hide after 6 seconds
         setTimeout(() => document.getElementById('validation-toast')?.remove(), 6000);
         </script>
 }

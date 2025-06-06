@@ -13,7 +13,7 @@
     </head>
     <body>
         <nav>
-            <img src="images/logo.png" alt="Logo RizzBank" class="logo" />
+            <img src="~/images/logo.png" alt="Logo RizzBank" class="logo" />
             <ul class="nav-list">
                 <a asp-page="/Index" class="nav-link">
                     <section class="nav-button" id="navButton1">
@@ -39,7 +39,7 @@
             @RenderBody()
         </main>
 
-        <partial name="_ValidationToast" />
+        <partial name="~/Pages/Shared/_ValidationToast.cshtml" />
     
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 

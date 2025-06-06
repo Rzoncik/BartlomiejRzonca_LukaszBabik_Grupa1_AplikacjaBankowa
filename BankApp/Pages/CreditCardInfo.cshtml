@@ -2,7 +2,7 @@
 @model BankApp.Pages.CreditCardInfoModel
 @{
     ViewData["Title"] = "Credit Card Information";
-    Layout = "Shared/_DashboardLayout";
+    Layout = "~/Pages/Shared/_DashboardLayout.cshtml";
 }
 
 <h1 class="title">Dane karty kredytowej</h1>
@@ -36,5 +36,5 @@ else
 <br/>
 <br/>
 @section Scripts{
-    <partial name="_ValidationScriptsPartial" />
+    <partial name="~/Pages/Shared/_ValidationScriptsPartial.cshtml" />
 }

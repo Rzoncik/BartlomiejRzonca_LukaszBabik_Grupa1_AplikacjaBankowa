@@ -2,7 +2,7 @@
 @model BankApp.Pages.SendTransferModel
 @{
     ViewData["Title"] = "Wyślij przelew";
-    Layout = "Shared/_DashboardLayout";
+    Layout = "~/Pages/Shared/_DashboardLayout.cshtml";
 }
 
 <h1 class="title">Przelew bankowy</h1>
@@ -38,4 +38,4 @@
 <br/>
 <br/>
 
-<partial name="_ValidationScriptsPartial"/>
+<partial name="~/Pages/Shared/_ValidationScriptsPartial.cshtml"/>
