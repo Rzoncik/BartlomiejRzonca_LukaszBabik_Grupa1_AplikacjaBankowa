@@ -8,7 +8,7 @@
 </section>
 
 
-Repozytorium projektu zaliczeniowego grupy 1 (Bartłomiej Rzońca & Łukasz Babik) – pełnoprawna, choć uproszczona, bankowość internetowa napisana w ASP.NET Core 8.0 z wykorzystaniem Razor Pages i Entity Framework Core.
+Repozytorium projektu zaliczeniowego grupy 1 (Bartłomiej Rzońca i Łukasz Babik) – pełnoprawna, choć uproszczona, bankowość internetowa napisana w C# ASP.NET Core 8.0 z wykorzystaniem Razor Pages i Entity Framework Core.
 Aplikacja pozwala utworzyć konto użytkownika, zalogować się, wykonywać przelewy, przeglądać historię operacji, sprawdzić bieżące kursy NBP oraz zarządzać danymi i kartą kredytową – wszystko za pomocą pojedynczej, lokalnej bazy SQLite.
 
 ---
