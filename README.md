@@ -19,12 +19,11 @@ Aplikacja pozwala utworzyć konto użytkownika, zalogować się, wykonywać prze
 2. <a href="#technologie">Technologie i biblioteki</a>
 3. <a href="#wymagania">Wymagania systemowe</a>
 4. <a href="#instalacja">Instalacja krok po kroku</a>
-5. <a href="#struktura">Struktura katalogów</a>
-6. <a href="#schemat">Schemat bazy danych</a>
-7. <a href="#bezpieczenstwo">Bezpieczeństwo</a>
-8. <a href="#kontrybucja">Kontrybucja</a>
-9. <a href="#licencja">Licencja</a>
-10. <a href="#autorzy">Autorzy</a>
+5. <a href="#schemat">Schemat bazy danych</a>
+6. <a href="#bezpieczenstwo">Bezpieczeństwo</a>
+7. <a href="#kontrybucja">Kontrybucja</a>
+8. <a href="#licencja">Licencja</a>
+9. <a href="#autorzy">Autorzy</a>
 
 ---
 
@@ -34,11 +33,11 @@ Aplikacja pozwala utworzyć konto użytkownika, zalogować się, wykonywać prze
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | Rejestracja i logowanie   | Automatyczne nadawanie 8‑cyfrowego loginu, szyfrowanie haseł SHA‑256, walidacja danych i dwustopniowe potwierdzenie hasła. |
 | Panel klienta (Dashboard) | Zestawienie salda, skrót ostatnich przelewów oraz szybkie linki do najczęściej używanych akcji.                            |
-| Rachunki i saldo          | Widok wszystkich kont (na razie pojedyncze konto PLN z możliwością rozszerzenia).                                          |
-| Przelewy wychodzące       | Wysyłanie środków na dowolny numer IBAN, walidacja kwot (2 miejsca po przecinku, zakres 0,01 – 1 000 000 000 PLN).         |
-| Historia operacji         | Paginowany podgląd przelewów z filtrowaniem po dacie lub tytule.                                                           |
-| Kursy walut               | Web‑scraping z Bankier.pl – aktualne tabele NBP (USD, EUR, GBP, CHF …) odświeżane przy każdym wejściu.                     |
-| Karta kredytowa           | Automatyczne generowanie numeru, daty ważności i CVV; wyświetlane w postaci maskowanej.                                    |
+| Rachunki i saldo          | Widok wszystkich rachunków użytkownika, możliwość dodawania nowych.                                                         |
+| Przelewy wychodzące       | Wysyłanie środków na dowolny numer IBAN, walidacja kwot (2 miejsca po przecinku, zakres 0,01 – 1 000 000 000 PLN).           |
+| Historia operacji         | Podgląd przelewów z filtrowaniem po dacie, kwocie lub tytule.                                                              |
+| Kursy walut               | Scrapowane z Bankier.pl – aktualna tabela najpopularniejszych walut w Polsce według NBP (USD, EUR, GBP, CHF …) odświeżane przy każdym wejściu. |
+| Karta kredytowa           | Automatyczne generowanie numeru, daty ważności i CVV; wyświetlane w postaci maskowanej. Aby wyświetlić informacje o karcie, klient musi wprowadzić hasło. |
 | Zmiana danych osobowych   | Edycja wybranych pól profilu z pełną ponowną walidacją.                                                                    |
 | Wylogowanie / sesje       | Sesje oparte na cookie (CookieAuthentication) z wygaszaniem po 30 minutach bezczynności.                                   |
 | HTTPS                     | Kestrel nasłuchuje na https://localhost:5001 z automatycznie wygenerowanym certyfikatem deweloperskim.                     |
@@ -51,16 +50,16 @@ Aplikacja pozwala utworzyć konto użytkownika, zalogować się, wykonywać prze
 | ---------- | --------------------------------------------------------------------------------------------------------- |
 | Backend    | .NET 8.0, ASP.NET Core Razor Pages, C# 12                                                                 |
 | ORM        | Entity Framework Core 8 (provider SQLite)                                                                 |
-| Frontend   | Razor + Bootstrap 5 (via libman) + minimalne CSS w *.cshtml.css                                           |
+| Frontend   | Razor + w stu procentach autorskie CSS oraz JavaScript                                                    |
 | Pomocnicze | HtmlAgilityPack (waluty), Humanizer (formatowanie dat), System.ComponentModel.DataAnnotations (walidacja) |
-| Dev tools  | Visual Studio 2022 / Rider / VS Code + C# extensions                                                      |
+| Dev tools  | JetBrains Rider, DB Browser for SQLite / JetBrains DataGrip                                               |
 
 ---
 
 <h2 id="wymagania">✅ Wymagania systemowe</h2>
 
 * .NET SDK 8.0 lub nowszy  
-* System Windows 10/11, Linux lub macOS  
+* System Windows 10/11, GNU/Linux lub macOS  
 * Przeglądarka obsługująca TLS 1.3 (Chrome, Edge, Firefox ≥ ESR 115, Safari 16+)  
 * Opcjonalnie: SQLite Browser lub sqlite3 w CLI, jeśli chcesz zajrzeć do bazy Database.db.
 
@@ -97,19 +96,6 @@ dotnet run
 ```
 https://localhost:5001
 ```
-
----
-
-<h2 id="struktura">🗂 Struktura katalogów</h2>
-BankApp
-├── Helpers/              # statyczne klasy pomocnicze
-├── Models/               # POCO + AppDbContext (Users, Transfers)
-├── Pages/                # Razor Pages (*.cshtml + code-behind)
-│   ├── Shared/           # wspólne układy _Layout oraz _DashboardLayout
-│   └── ...               # Login, Register, Dashboard, SendTransfer, ...
-├── Program.cs            # minimal hosting + konfiguracja usług
-├── Database.db           # lokalna baza SQLite
-└── BankApp.csproj        # definicja projektu
 
 ---
 
@@ -162,11 +148,6 @@ dotnet build
 dotnet format
 ```
 
-4. PR powinien zawierać czytelny opis zmian, powiązany numer Issue, przechodzić dotnet build --configuration Release i nie powodować regresji funkcjonalności
-
-Standard commitów – Conventional Commits (feat:, fix:, refactor: …).  
-Style C# – pakiet reguł Microsoft.CodeAnalysis + .editorconfig repozytorium.
-
 ---
 
 <h2 id="licencja">📜 Licencja</h2>
@@ -184,4 +165,5 @@ Jeśli chcesz wykorzystać kod we własnym projekcie, skontaktuj się z autora
 | Łukasz Bąbik      | Full‑stack Dev | lbabik2003@gmail.com       |
 
 Projekt wykonany w ramach zajęć Programowanie obiektowe (sem.2)AK1 – semestr 2024/25.
+Debugowany na Fedora Workstation 42 z przeglądarką Brave oraz Windows 11 z Opera.
 Dziękujemy za zainteresowanie. Jeśli masz pytania lub sugestie, otwórz Issue – chętnie pomożemy.
