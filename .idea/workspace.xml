@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="780a938d-c7fa-43a0-8097-bd3df43256f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/BankApp/Pages/Dashboard.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/Pages/Dashboard.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankApp/Pages/Dashboard.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/Pages/Dashboard.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankApp/Pages/SendTransfer.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/Pages/SendTransfer.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankApp/Pages/SendTransfer.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/Pages/SendTransfer.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankApp/Pages/Shared/_DashboardLayout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/Pages/Shared/_DashboardLayout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankApp/bin/Debug/net8.0/BankApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/bin/Debug/net8.0/BankApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankApp/bin/Debug/net8.0/BankApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/bin/Debug/net8.0/BankApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankApp/obj/Debug/net8.0/BankApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/obj/Debug/net8.0/BankApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankApp/obj/Debug/net8.0/BankApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/obj/Debug/net8.0/BankApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankApp/obj/Debug/net8.0/BankApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/obj/Debug/net8.0/BankApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankApp/obj/Debug/net8.0/BankApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/obj/Debug/net8.0/BankApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankApp/obj/Debug/net8.0/ref/BankApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/obj/Debug/net8.0/ref/BankApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankApp/obj/Debug/net8.0/refint/BankApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/obj/Debug/net8.0/refint/BankApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankApp/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/wwwroot/css/site.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankApp/wwwroot/js/dashboard-layout-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/wwwroot/js/dashboard-layout-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankApp/Database.db" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/Database.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,23 +16,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2y0pl8SD0i5TUbJVTVBMF0W315s" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/rzoncik"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rzoncik&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="780a938d-c7fa-43a0-8097-bd3df43256f6" name="Changes" comment="" />

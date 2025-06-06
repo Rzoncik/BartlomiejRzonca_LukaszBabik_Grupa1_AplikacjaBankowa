@@ -13,10 +13,6 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/background (kopia).png",
-      "PackagePath": "staticwebassets/images/background (kopia).png"
-    },
-    {
       "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/background.png",
       "PackagePath": "staticwebassets/images/background.png"
     },

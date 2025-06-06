@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CbWvlVY0VfrEFiY/MTJIXXtW3SKcS8bujk/AHOXNIQE=",
+  "Hash": "D5Fv8lnNjLZMzM2OIemyPgT04MtUvMVwFy/Uw0Flytg=",
   "Source": "BankApp",
   "BasePath": "_content/BankApp",
   "Mode": "Default",
@@ -91,25 +91,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
-    },
-    {
-      "Identity": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/background (kopia).png",
-      "SourceId": "BankApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/",
-      "BasePath": "_content/BankApp",
-      "RelativePath": "images/background (kopia).png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/background (kopia).png"
     },
     {
       "Identity": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/background.png",
