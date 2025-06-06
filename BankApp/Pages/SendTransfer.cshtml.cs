@@ -54,7 +54,6 @@ namespace BankApp.Pages
             
             HttpContext.Session.SetString("Balance",
                 sender.Balance.ToString(CultureInfo.InvariantCulture));
-
             return RedirectToPage("/Dashboard");
         }
 

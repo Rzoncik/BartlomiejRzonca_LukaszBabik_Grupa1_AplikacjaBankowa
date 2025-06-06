@@ -150,13 +150,13 @@
 /home/rzoncik/RiderProjects/BankApp/BankApp/obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.BankApp.props
 /home/rzoncik/RiderProjects/BankApp/BankApp/obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.BankApp.props
 /home/rzoncik/RiderProjects/BankApp/BankApp/obj/Release/net8.0/staticwebassets.pack.json
-/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Release/net8.0/scopedcss/Pages/Shared/_DashboardLayout.cshtml.rz.scp.css
-/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Release/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
 /home/rzoncik/RiderProjects/BankApp/BankApp/obj/Release/net8.0/scopedcss/bundle/BankApp.styles.css
-/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Release/net8.0/scopedcss/projectbundle/BankApp.bundle.scp.css
 /home/rzoncik/RiderProjects/BankApp/BankApp/obj/Release/net8.0/BankApp.csproj.CopyComplete
 /home/rzoncik/RiderProjects/BankApp/BankApp/obj/Release/net8.0/BankApp.dll
 /home/rzoncik/RiderProjects/BankApp/BankApp/obj/Release/net8.0/refint/BankApp.dll
 /home/rzoncik/RiderProjects/BankApp/BankApp/obj/Release/net8.0/BankApp.pdb
 /home/rzoncik/RiderProjects/BankApp/BankApp/obj/Release/net8.0/BankApp.genruntimeconfig.cache
 /home/rzoncik/RiderProjects/BankApp/BankApp/obj/Release/net8.0/ref/BankApp.dll
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Release/net8.0/scopedcss/Pages/Shared/_DashboardLayout.cshtml.rz.scp.css
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Release/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/rzoncik/RiderProjects/BankApp/BankApp/obj/Release/net8.0/scopedcss/projectbundle/BankApp.bundle.scp.css

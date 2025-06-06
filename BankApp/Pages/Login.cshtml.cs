@@ -19,6 +19,10 @@ namespace BankApp.Pages
         
         [TempData]
         public string? GeneratedLogin { get; set; }
+        
+        [TempData]
+        public string? ToastMessage { get; set; }
+        
 
         //Generuje losowy 8-znakowy login.
         public void OnGet(string? generatedLogin)
@@ -86,6 +90,7 @@ namespace BankApp.Pages
             HttpContext.Session.SetString("FirstName", user.FirstName);
             HttpContext.Session.SetString("LastName", user.LastName);
             
+            ToastMessage = "Zalogowano pomyślnie.";
             return RedirectToPage("/Dashboard");
         }
     }

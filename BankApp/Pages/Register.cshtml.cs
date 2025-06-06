@@ -15,7 +15,11 @@ namespace BankApp.Pages
 
         [BindProperty]
         public new DbUsers User { get; set; } = new();
+        
+        [TempData]
+        public string? ToastMessage { get; set; }
 
+        
         public IActionResult OnPost()
         {
             // Jeśli są jakiekolwiek błędy, odświeża ponownie stronę.
@@ -63,6 +67,7 @@ namespace BankApp.Pages
             context.SaveChanges();
             
             // Przekierowuje na stronę logowania.
+            ToastMessage = "Zarejestrowano pomyślnie.";
             return RedirectToPage("Login", new { generatedLogin = User.Login });
         }
     }

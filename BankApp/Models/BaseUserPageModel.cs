@@ -19,5 +19,8 @@ namespace BankApp.Models
         
         protected Task<DbUsers> GetCurrentUserAsync()
             => context.Users.SingleAsync(u => u.UserId == CurrentUserId);
+        
+        [TempData]
+        public string? ToastMessage { get; set; }
     }
 }

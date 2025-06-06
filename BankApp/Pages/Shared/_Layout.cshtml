@@ -40,7 +40,9 @@
         </main>
 
         <partial name="~/Pages/Shared/_ValidationToast.cshtml" />
-    
+
+        @await Html.PartialAsync("~/Pages/Shared/_Toast.cshtml")
+        
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
         <script src="~/js/layout-scripts.js"></script>

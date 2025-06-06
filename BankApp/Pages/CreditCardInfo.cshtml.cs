@@ -19,9 +19,11 @@ namespace BankApp.Pages
         public string CreditCardExpiry { get; private set; } = string.Empty;
         
         public string CreditCardCvv { get; private set; } = string.Empty;
+        
 
         public void OnGet() => ShowCardInfo = false;
 
+        
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)
@@ -30,7 +32,7 @@ namespace BankApp.Pages
             RedirectIfNotLoggedIn();
 
             var user = await GetCurrentUserAsync();
-
+            
             // Walidacja hasła.
             var hashedInput = PasswordHelper.HashPassword(Password);
             if (user.Password != hashedInput)
@@ -47,7 +49,7 @@ namespace BankApp.Pages
 
             // Usuń informacje o haśle użytkownika.
             Password = string.Empty;
-
+            
             return Page();
         }
     }

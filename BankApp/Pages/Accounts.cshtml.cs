@@ -48,6 +48,8 @@ namespace BankApp.Pages
             context.SaveChanges();
 
             SetActiveAccount(clone);
+            
+            ToastMessage = "Nowy rachunek utworzony.";
             return RedirectToPage();
         }
 
