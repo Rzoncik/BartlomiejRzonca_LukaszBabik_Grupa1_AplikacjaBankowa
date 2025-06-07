@@ -20,12 +20,10 @@
 
 <section class="sidebar-expanded" id="sideBar">
     <section class="sidebar-user-info">
-        <section>
-            <span class="user-name">@Context.Session.GetString("FirstName") @Context.Session.GetString("LastName")
-                <br/>
-                Środki: @Context.Session.GetString("Balance") zł
-            </span>
-        </section>
+        <span class="user-name">@Context.Session.GetString("FirstName") @Context.Session.GetString("LastName")
+            <br/>
+            Środki: @Context.Session.GetString("Balance") zł
+        </span>
     </section>
 
     <section class="sidebar-buttons">

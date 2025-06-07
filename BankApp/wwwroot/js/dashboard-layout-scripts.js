@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
         };
 
         const pressEnd = () => {
-            Button.classList.remove('sidebar-button-down');      // release press
+            Button.classList.remove('sidebar-button-down');
         };
 
         Button.addEventListener('mousedown', pressStart);
@@ -62,7 +62,7 @@ function toggleSidebar() {
     localStorage.setItem('sidebarHidden', isHidden ? 'true' : 'false');
 }
 
-// Restore state on page load
+
 window.addEventListener('DOMContentLoaded', () => {
     const sidebar = document.getElementById('sideBar');
     const mainWithSideBar = document.getElementById('mainWithSideBar');

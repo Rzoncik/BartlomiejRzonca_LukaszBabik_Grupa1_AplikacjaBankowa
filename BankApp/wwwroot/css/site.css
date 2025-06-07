@@ -323,10 +323,10 @@ h2 {
 .date-time {
     z-index: 5;
     position: fixed;
-    font-size: 1.3rem;
+    font-size: 0.8rem;
     text-align: right;
-    top: 2rem;
-    right: 2rem;
+    top: 1rem;
+    right: 1rem;
     font-weight: bold;
     width: auto;
     padding: 0.75rem;
