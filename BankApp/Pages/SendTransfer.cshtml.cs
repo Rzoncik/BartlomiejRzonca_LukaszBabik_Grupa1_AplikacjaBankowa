@@ -1,5 +1,8 @@
 // Paradygmat polimorfizmu
 
+//Paradygmat hermetyzacji
+
+// Biblioteki wykorzystywane w tym pliku. Globalization pozwala na pobranie aktualnej daty. Wykorzystywane jest to żeby zaksięgować datę przelewu w bazie danych.
 using System.ComponentModel.DataAnnotations;
 using System.Globalization;
 using BankApp.Models;
@@ -31,6 +34,7 @@ namespace BankApp.Pages
         
         public void OnGet() { }
         
+        // IActionResult zawiera klasy takie jak RedirectToPage() i różnie je wykonuje w zależności od strony.
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid) return Page();
@@ -57,7 +61,8 @@ namespace BankApp.Pages
             return RedirectToPage("/Dashboard");
         }
 
-        // Paradygmat polimorfizmu. Pozwala na rozbudowę o kolejne typy przelewów (SEPA, SWIFT).
+        // Paradygmat polimorfizmu. Pozwala na rozbudowę o kolejne typy przelewów (BLIK).
+        // Klasa private nie jest widoczna dla elementów programu spoza tego pliku.
         private abstract class TransferProcessor(
             AppDbContext db,
             DbUsers sender,

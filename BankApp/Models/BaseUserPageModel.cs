@@ -1,4 +1,4 @@
-// Paradygmat dziedziczenia.
+// Paradygmat dziedziczenia - klasa BaseUserPageModel dziedziczy cechy klasy PageModel. Ta klasa jest wykorzystywana jedynie gdy użytkownik jest zalogowany np. /Dashboard lub SendTransfer.
 
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;

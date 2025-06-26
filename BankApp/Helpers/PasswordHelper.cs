@@ -1,4 +1,6 @@
-﻿using System.Security.Cryptography;
+﻿// Paradygmat klas - klasa jest wykorzystywana w różnych plikach kodu.
+
+using System.Security.Cryptography;
 using System.Text;
 
 namespace BankApp.Helpers

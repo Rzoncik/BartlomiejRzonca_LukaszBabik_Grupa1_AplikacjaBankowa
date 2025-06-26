@@ -33,7 +33,7 @@ namespace BankApp.Pages
             }
         }
         
-        // Proces logowania, program szuka w czy w bazie znajduje się podany przez użytkownika login z hasłem odpowiadającym temu, co również podał użytkownik.
+        // Proces logowania, program szuka czy w bazie znajduje się podany przez użytkownika login z hasłem odpowiadającym temu, co również podał użytkownik.
         public async Task<IActionResult> OnPostAsync()
         {
             if (Login == null || Password == null)
