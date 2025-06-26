@@ -24,6 +24,7 @@ Aplikacja pozwala utworzyć konto użytkownika, zalogować się, wykonywać prze
 7. <a href="#kontrybucja">Kontrybucja</a>
 8. <a href="#licencja">Licencja</a>
 9. <a href="#autorzy">Autorzy</a>
+10. <a href="#zrzutyEkranu">Zrzuty ekranu</a>
 
 ---
 
@@ -167,3 +168,9 @@ Jeśli chcesz wykorzystać kod we własnym projekcie, skontaktuj się z autora
 Projekt wykonany w ramach zajęć Programowanie obiektowe (sem.2)AK1 – semestr 2024/25.
 Debugowany na Fedora Workstation 42 z przeglądarką Brave oraz Windows 11 z Opera.
 Dziękujemy za zainteresowanie. Jeśli masz pytania lub sugestie, otwórz Issue – chętnie pomożemy.
+
+---
+
+<h2 id="zrzutyEkranu">📷 Zrzuty ekranu</h2>
+
+<img src="BankApp/wwwroot/images/screenshots/index.png" alt="index" style="height: 10em; vertical-align: middle; align-items: center;" />

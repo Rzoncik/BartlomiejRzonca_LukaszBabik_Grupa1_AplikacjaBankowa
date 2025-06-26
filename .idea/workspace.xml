@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="780a938d-c7fa-43a0-8097-bd3df43256f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankApp/Database.db" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/Database.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankApp/bin/Release/net8.0/BankApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/bin/Release/net8.0/BankApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankApp/bin/Release/net8.0/BankApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/bin/Release/net8.0/BankApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankApp/obj/Release/net8.0/BankApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/obj/Release/net8.0/BankApp.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankApp/obj/Release/net8.0/BankApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/obj/Release/net8.0/BankApp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankApp/obj/Release/net8.0/BankApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/obj/Release/net8.0/BankApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankApp/obj/Release/net8.0/BankApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/obj/Release/net8.0/BankApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankApp/obj/Release/net8.0/BankApp.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/obj/Release/net8.0/BankApp.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankApp/obj/Release/net8.0/ref/BankApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/obj/Release/net8.0/ref/BankApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankApp/obj/Release/net8.0/refint/BankApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BankApp/obj/Release/net8.0/refint/BankApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
