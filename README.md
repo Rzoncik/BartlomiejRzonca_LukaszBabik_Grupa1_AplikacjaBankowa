@@ -5,7 +5,6 @@
 </p>
 <br />
 <br />
-</section>
 
 
 Repozytorium projektu zaliczeniowego grupy 1 (Bartłomiej Rzońca & Łukasz Babik) – pełnoprawna, choć uproszczona, bankowość internetowa napisana w ASP.NET Core 8.0 z wykorzystaniem Razor Pages i Entity Framework Core.
@@ -21,10 +20,13 @@ Aplikacja pozwala utworzyć konto użytkownika, zalogować się, wykonywać prze
 4. <a href="#instalacja">Instalacja krok po kroku</a>
 5. <a href="#schemat">Schemat bazy danych</a>
 6. <a href="#bezpieczenstwo">Bezpieczeństwo</a>
-7. <a href="#kontrybucja">Kontrybucja</a>
-8. <a href="#licencja">Licencja</a>
-9. <a href="#autorzy">Autorzy</a>
-10. <a href="#zrzutyEkranu">Zrzuty ekranu</a>
+7. <a href="#paradygmaty">Paradygmaty obiektowe</a>
+8. <a href="#rozwoj">Dalszy rozwój</a>
+9. <a href="#bledy">Błędy i naprawy</a>
+10. <a href="#kontrybucja">Kontrybucja</a>
+11. <a href="#licencja">Licencja</a>
+12. <a href="#autorzy">Autorzy</a>
+13. <a href="#zrzuty">Zrzuty ekranu</a>
 
 ---
 
@@ -67,7 +69,9 @@ Aplikacja pozwala utworzyć konto użytkownika, zalogować się, wykonywać prze
 ---
 
 <h2 id="instalacja">🚀 Instalacja krok po kroku</h2>
+
 1. Otwórz Powershell (Windows) lub Terminal (GNU/Linux/macOS).
+
 2. Sklonuj repozytorium za pomocą polecenia:
 
 ```
@@ -138,6 +142,36 @@ https://localhost:5001
 
 ---
 
+<h2 id="paradygmaty">🖥️ Paradygmaty obiektowe</h2>
+
+* Szyfrowanie haseł – hash SHA‑256 (bez soli, do ulepszenia)  
+* Walidacja danych – atrybuty DataAnnotations (regexy, zakresy, długości)  
+* Sesje i autoryzacja – CookieAuthentication + atrybut [Authorize]  
+* HTTPS w localhost – automatyczny certyfikat deweloperski  
+* Ochrona CSRF – wbudowana w Razor Pages (asp-antiforgery)
+
+---
+
+<h2 id="rozwoj">🚶‍➡️ Dalszy rozwój</h2>
+
+* Szyfrowanie haseł – hash SHA‑256 (bez soli, do ulepszenia)  
+* Walidacja danych – atrybuty DataAnnotations (regexy, zakresy, długości)  
+* Sesje i autoryzacja – CookieAuthentication + atrybut [Authorize]  
+* HTTPS w localhost – automatyczny certyfikat deweloperski  
+* Ochrona CSRF – wbudowana w Razor Pages (asp-antiforgery)
+
+---
+
+<h2 id="bledy">🛠️ Błędy i naprawy</h2>
+
+* Szyfrowanie haseł – hash SHA‑256 (bez soli, do ulepszenia)  
+* Walidacja danych – atrybuty DataAnnotations (regexy, zakresy, długości)  
+* Sesje i autoryzacja – CookieAuthentication + atrybut [Authorize]  
+* HTTPS w localhost – automatyczny certyfikat deweloperski  
+* Ochrona CSRF – wbudowana w Razor Pages (asp-antiforgery)
+
+---
+
 <h2 id="kontrybucja">🤝 Kontrybucja</h2>
 
 1. Otwórz Issue opisujące błąd lub proponowaną funkcję  
@@ -171,7 +205,7 @@ Dziękujemy za zainteresowanie. Jeśli masz pytania lub sugestie, otwórz Issu
 
 ---
 
-<h2 id="zrzutyEkranu">📷 Zrzuty ekranu</h2>
+<h2 id="zrzuty">📷 Zrzuty ekranu</h2>
 
 <img src="BankApp/wwwroot/images/screenshots/index.png" alt="Strona główna" style="vertical-align: middle; align-items: center;" />
 
