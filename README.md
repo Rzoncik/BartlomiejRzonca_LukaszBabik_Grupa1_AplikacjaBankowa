@@ -173,4 +173,22 @@ Dziękujemy za zainteresowanie. Jeśli masz pytania lub sugestie, otwórz Issu
 
 <h2 id="zrzutyEkranu">📷 Zrzuty ekranu</h2>
 
-<img src="BankApp/wwwroot/images/screenshots/index.png" alt="index" style="height: 10em; vertical-align: middle; align-items: center;" />
+<img src="BankApp/wwwroot/images/screenshots/index.png" alt="Strona główna" style="vertical-align: middle; align-items: center;" />
+
+<img src="BankApp/wwwroot/images/screenshots/login.png" alt="Logowanie" style="vertical-align: middle; align-items: center;" />
+
+<img src="BankApp/wwwroot/images/screenshots/register.png" alt="Rejestracja" style="vertical-align: middle; align-items: center;" />
+
+<img src="BankApp/wwwroot/images/screenshots/dashbaord.png" alt="Panel Użytkownika" style="vertical-align: middle; align-items: center;" />
+
+<img src="BankApp/wwwroot/images/screenshots/sendtransfer.png" alt="Przelew wewnętrzny" style="vertical-align: middle; align-items: center;" />
+
+<img src="BankApp/wwwroot/images/screenshots/accounts.png" alt="Konta bankowe" style="vertical-align: middle; align-items: center;" />
+
+<img src="BankApp/wwwroot/images/screenshots/changeuserdata.png" alt="Edycja konta" style="vertical-align: middle; align-items: center;" />
+
+<img src="BankApp/wwwroot/images/screenshots/transferhistory.png" alt="Historia operacji" style="vertical-align: middle; align-items: center;" />
+
+<img src="BankApp/wwwroot/images/screenshots/currencies.png" alt="Kursy walutowe" style="vertical-align: middle; align-items: center;" />
+
+<img src="BankApp/wwwroot/images/screenshots/creditcardinfo.png" alt="Dane karty kredytowej" style="vertical-align: middle; align-items: center;" />
