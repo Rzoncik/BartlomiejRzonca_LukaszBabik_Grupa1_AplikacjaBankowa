@@ -45,6 +45,46 @@
       "PackagePath": "staticwebassets/images/logo.png"
     },
     {
+      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/screenshots/accounts.png",
+      "PackagePath": "staticwebassets/images/screenshots/accounts.png"
+    },
+    {
+      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/screenshots/changeuserdata.png",
+      "PackagePath": "staticwebassets/images/screenshots/changeuserdata.png"
+    },
+    {
+      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/screenshots/creditcardinfo.png",
+      "PackagePath": "staticwebassets/images/screenshots/creditcardinfo.png"
+    },
+    {
+      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/screenshots/currencies.png",
+      "PackagePath": "staticwebassets/images/screenshots/currencies.png"
+    },
+    {
+      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/screenshots/dashbaord.png",
+      "PackagePath": "staticwebassets/images/screenshots/dashbaord.png"
+    },
+    {
+      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/screenshots/index.png",
+      "PackagePath": "staticwebassets/images/screenshots/index.png"
+    },
+    {
+      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/screenshots/login.png",
+      "PackagePath": "staticwebassets/images/screenshots/login.png"
+    },
+    {
+      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/screenshots/register.png",
+      "PackagePath": "staticwebassets/images/screenshots/register.png"
+    },
+    {
+      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/screenshots/sendtransfer.png",
+      "PackagePath": "staticwebassets/images/screenshots/sendtransfer.png"
+    },
+    {
+      "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/screenshots/transferhistory.png",
+      "PackagePath": "staticwebassets/images/screenshots/transferhistory.png"
+    },
+    {
       "Id": "/home/rzoncik/RiderProjects/BankApp/BankApp/wwwroot/images/sigma-guy.png",
       "PackagePath": "staticwebassets/images/sigma-guy.png"
     },
