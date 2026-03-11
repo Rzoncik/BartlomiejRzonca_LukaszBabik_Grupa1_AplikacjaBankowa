@@ -30,7 +30,7 @@ Aplikacja pozwala utworzyć konto użytkownika, zalogować się, wykonywać prze
 
 ---
 
-<h2 id="funkcjonalnosci">🏦 Kluczowe funkcjonalności</h2>
+<h2 id="funkcjonalnosci">Kluczowe funkcjonalności</h2>
 
 | Moduł                     | Opis                                                                                                                       |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -47,7 +47,7 @@ Aplikacja pozwala utworzyć konto użytkownika, zalogować się, wykonywać prze
 
 ---
 
-<h2 id="technologie">🔧 Technologie i biblioteki</h2>
+ id="technologie">Technologie i biblioteki</h2>
 
 | Warstwa    | Stos technologiczny                                                                                       |
 | ---------- | --------------------------------------------------------------------------------------------------------- |
@@ -59,7 +59,7 @@ Aplikacja pozwala utworzyć konto użytkownika, zalogować się, wykonywać prze
 
 ---
 
-<h2 id="wymagania">✅ Wymagania systemowe</h2>
+ id="wymagania">Wymagania systemowe</h2>
 
 * .NET SDK 8.0 lub nowszy  
 * System Windows 10/11, GNU/Linux lub macOS  
@@ -68,7 +68,7 @@ Aplikacja pozwala utworzyć konto użytkownika, zalogować się, wykonywać prze
 
 ---
 
-<h2 id="instalacja">🚀 Instalacja krok po kroku</h2>
+<h2 id="instalacja">Instalacja krok po kroku</h2>
 
 1. Otwórz Powershell (Windows) lub Terminal (GNU/Linux/macOS).
 
@@ -104,7 +104,7 @@ https://localhost:5001
 
 ---
 
-<h2 id="schemat">🗄 Schemat bazy danych</h2>
+<h2 id="schemat">Schemat bazy danych</h2>
 
 <h3>Users</h3>
 
@@ -132,7 +132,7 @@ https://localhost:5001
 
 ---
 
-<h2 id="bezpieczenstwo">🔐 Bezpieczeństwo</h2>
+<h2 id="bezpieczenstwo">Bezpieczeństwo</h2>
 
 * Szyfrowanie haseł – hash SHA‑256 (bez soli, do ulepszenia)  
 * Walidacja danych – atrybuty DataAnnotations (regexy, zakresy, długości)  
@@ -142,7 +142,7 @@ https://localhost:5001
 
 ---
 
-<h2 id="paradygmaty">🖥️ Paradygmaty obiektowe</h2>
+<h2 id="paradygmaty">Paradygmaty obiektowe</h2>
 
 <h3>1. Struktura klas</h3>
 
@@ -275,7 +275,7 @@ var nbp = decimal.Parse(m.Groups["rate"].Value.Replace(',', '.'), CultureInfo.In
 
 ---
 
-<h2 id="rozwoj">🚶‍➡️ Dalszy rozwój</h2>
+<h2 id="rozwoj">Dalszy rozwój</h2>
 
 <h3>Przelewy BLIK</h3>
 
@@ -291,7 +291,7 @@ Jest to błąd, który zamierzamy naprawić.
 
 ---
 
-<h2 id="bledy">🛠️ Błędy i naprawy</h2>
+<h2 id="bledy">Błędy i naprawy</h2>
 
 * Jetbrains Rider źle wysyłał commity na Github. Naprawiono to poprzez używanie aplikacji Github Desktop.
 
@@ -303,7 +303,7 @@ Jest to błąd, który zamierzamy naprawić.
 
 ---
 
-<h2 id="kontrybucja">🤝 Kontrybucja</h2>
+<h2 id="kontrybucja">Kontrybucja</h2>
 
 1. Otwórz Issue opisujące błąd lub proponowaną funkcję  
 2. Utwórz gałąź feature/nazwa albo bugfix/nazwa  
@@ -316,14 +316,14 @@ dotnet format
 
 ---
 
-<h2 id="licencja">📜 Licencja</h2>
+<h2 id="licencja">Licencja</h2>
 
 Repozytorium nie zawiera pliku licencji głównej.  
 Jeśli chcesz wykorzystać kod we własnym projekcie, skontaktuj się z autorami lub dodaj plik LICENSE (np. MIT / Apache 2.0) przed dalszą dystrybucją.
 
 ---
 
-<h2 id="autorzy">👥 Autorzy</h2>
+<h2 id="autorzy">Autorzy</h2>
 
 | Imię i nazwisko   | Rola           | Kontakt                    |
 | ----------------- | -------------- | -------------------------- |
@@ -336,7 +336,7 @@ Dziękujemy za zainteresowanie. Jeśli masz pytania lub sugestie, otwórz Issu
 
 ---
 
-<h2 id="zrzuty">📷 Zrzuty ekranu</h2>
+<h2 id="zrzuty">Zrzuty ekranu</h2>
 
 <img src="BankApp/wwwroot/images/screenshots/index.png" alt="Strona główna" style="vertical-align: middle; align-items: center;" />
 
