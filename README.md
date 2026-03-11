@@ -47,7 +47,7 @@ Aplikacja pozwala utworzyć konto użytkownika, zalogować się, wykonywać prze
 
 ---
 
- <h2>id="technologie">Technologie i biblioteki</h2>
+ <h2 id="technologie">Technologie i biblioteki</h2>
 
 | Warstwa    | Stos technologiczny                                                                                       |
 | ---------- | --------------------------------------------------------------------------------------------------------- |
@@ -59,7 +59,7 @@ Aplikacja pozwala utworzyć konto użytkownika, zalogować się, wykonywać prze
 
 ---
 
- <h2>id="wymagania">Wymagania systemowe</h2>
+ <h2 id="wymagania">Wymagania systemowe</h2>
 
 * .NET SDK 8.0 lub nowszy  
 * System Windows 10/11, GNU/Linux lub macOS  
